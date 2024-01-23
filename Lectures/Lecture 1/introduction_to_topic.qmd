@@ -1,0 +1,210 @@
+---
+title: |
+    | Lecture 1 - Introduction to topics
+    | Comparative Politics - POLS 3311
+date: today
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Announcements
+
+- Reading for next Wednesday will be posted this evening or tomorrow morning
+- Next week we will divide up topics for discussion leaders/presenters later in the semester
+- Lecture slides will always be posted in Canvas, please do not take photos during class
+- Today is basics
+- Syllabus quiz - upcoming, will have a full week
+
+
+## Overview
+
+-   What is politics?
+
+-   What is political science?
+
+        - subfields of political science and differences with other social sciences
+
+-   What is the comparative method of political science?
+
+        -   Overview of course subtopics
+
+
+# What is politics?
+
+## Discussion - Writing
+
+1. What is the primary concern of politics? What is the thing that politics addresses that other things don't? 
+2. What makes "the state" different from other organizations or institutions? (two things)
+3. How did you get to class this morning?
+
+
+## What is politics? Common thoughts
+
+- **Expensive or involves large amounts of money**
+- **Distant**
+- **Involves politicians or campaigns**
+- **involves voting or decision making**
+- **Involves rights**
+- **National borders**
+- **Controversial**
+
+
+## What is politics? 
+
+- **Not distant** 
+- **immediate, here**
+- **touches everything**
+- **direct impacts are constant**
+
+
+
+## What is politics? 
+
+
+- **Politics is the process of making collective decisions in the context of...**
+
+The State
+
+## What is "the state"?
+
+**The organized, coercive use of violent force commonly accepted as legitimate** 
+
+- Violent force
+- Legitimacy
+        
+## Other organizations - legitimacy
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Businesses
+
+## Other organizations - violence
+
+- Organized crime
+- vigilantes
+- terrorists
+
+## What is "the state"?
+
+**The organized, coercive use of violent force commonly accepted as legitimate** 
+
+        - Do our findings apply to other behavior (the firm, markets, voluntary organizations, churches)?
+
+        - Can non-state organizations provide examples to understand the state?
+
+        - What about the interaction between the state and non-state entities?
+
+
+
+
+## Political Science is:
+
+**"...the theory of collective action is the central subject of political science."**
+
+**collective action is the "core justification for the state"**
+
+- Elinor Ostrom
+        
+        - Nobel Prize in Economics, 2009 for her work on economic governance of the commons
+        - President, American Political Science Association, 1996- 1997
+
+
+## Political science is distinct from:
+
+- **Economics** - also studies *collective action* in the context of voluntary exchange and spontaneous order
+- **Sociology** - also studies *collective action* in the context of social norms and social structures (may also be spontaneous orders)
+
+## Political science also distinct from:
+
+- **Psychology** - individual behavior and cognition
+- **Social Psychology** - individual behavior and cognition in the context of social norms and social structures
+
+# Other branches of the study of The State
+
+## Political Science
+
+-   political philosophy & theory ![](socrates.jpg){width="4%"}
+-   American politics ![](science.png){width="4%"}![](socrates.jpg){width="4%"}
+-   international relations ![](science.png){width="4%"}
+-   political economy ![](science.png){width="4%"}
+-   political psychology ![](science.png){width="4%"}
+-   judicial behavior - not the same as "law" ![](science.png){width="4%"}
+-   policy ![](gear.png){width="4%"} ![](science.png){width="4%"}
+- and others...
+
+# What is Comparative Politics?
+
+## What is Comparative Politics?
+
+- John Stuart Mill (1806-1873): Method of Difference and Method of Similarity (First step)
+
+- Size of study
+
+            - Case study (few cases, small-n) (Method of Difference and Method of Similarity)
+            - Quantitative (many cases, large-n), variation is important
+            
+- Type of study 
+
+            - Examine variables that are similar or different to one another
+            - Examine variables across time or geographic differences 
+            - Compare different states, regions, etc.
+            - Compare the same state, etc. at different times
+            
+            
+            
+## What is Comparative Politics? Method of Difference and Method of Similarity
+
+**Method of Difference**
+
+        
+            - Starts with states that differ in the dependent variable result (the outcome)
+            - They should be as similar in everything else as possible
+            - Find the one other thing that is different
+            - That is the cause
+
+
+**Method of Similarity**
+      
+            - Starts with states with the same dependent variable result (outcome)
+            - They should be as different in everything else as possible
+            - Find the one other thing that is the same
+            - That is the cause
+            
+            
+## Course Topic Overview - Subtopics
+
+-   Institutions: Electoral Systems, Party Systems, Constraints on the Executive
+-   Types of Governments: Democracy, Dictatorship, Hybrid Regimes
+-   Democratization and Democratic Backsliding
+-   Economic Development and Modernization
+-   Regional/National, Cultural Explanations
+-   Conflict, Trade, and Globalization
+-   Corruption and Repression
+            
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+
+
+
+
+
+
+
