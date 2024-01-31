@@ -1,0 +1,162 @@
+---
+title: |
+    | Lecture 1 - What is Science? A Science of politics
+    | Comparative Politics - POLS 3311
+date: today
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+
+## Overview
+
+-   what is science?
+
+-   Applying science to human behavior
+
+-   More on the comparative method
+
+-   Good Scientific questions
+
+## Followup from Monday
+
+-   Politics main concern isn't necessarily the welfare of the people. Why do I emphasize this?
+
+          - You can't assume the state is representative of all the people or even cares about "the people's interests" - not every state is a democracy and not every democracy functions properly
+          - You can't assume the state or political actors are benevolent
+          - If we want to analyze how the world works, we can't start with bad assumptions
+          - We may be concerned with the welfare of the people, but assuming others always are is bad science
+
+-   Scientific questions - will cover today
+
+
+## What is science?
+
+-   Based on proof
+-   Scientific Method
+-   Falsifiability
+
+## What is science? Based on proof
+
+-   *Positive* not *normative*
+
+-   Based on physical proof that can be empirically tested
+
+-   About explaining the world as it is
+
+-   Not based on ideas about what "should be"
+
+## What is science? Scientific Method
+
+1.  Define a *research question*
+
+2.  Make predictions - *hypothesis*
+
+3.  Gather *data*
+
+                 + Experiments
+                 + Observations 
+
+4.  Analyze the data to *test* the hypothesis
+
+5.  Draw conclusions
+
+## What is science?
+
+**Falsifiability - testing the hypothesis**
+
+-   Karl Popper (1902-1994) - critical rationalism
+-   hypotheses (pl.) should be testable **empirically**
+-   false hypotheses are *rejected*
+-   hypotheses not rejected are *confirmed* as *approximately true*
+
+## More on the comparative method
+
+**Types of research**
+
+-   Experiment - random assignment, manipulation, control and treatment group
+
+-   Observational
+
+                  + Case study (single case, n = 1)
+                  + Comparative (small-n, can be large-n)
+                  + Statisticial (large-n)
+
+[More on the four approaches](https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Book%3A_Introduction_to_Comparative_Government_and_Politics_(Bozonelos_et_al.)/02%3A_How_to_Study_Comparative_Politics-_Using_Comparative_Methods/2.02%3A_Four_Approaches_to_Research)
+
+## Research Questions: The First Step
+
+**Non-scientific questions:**
+
+        + Did the decision repealing Roe v Wade violate rights? (Political Philosophy - POLS 3310, 3349, 4344)
+        + Was this case properly decided legally? (Law - POLS 3356,3357)
+        + Is there a right to abortion in the Constitution? (Law - POLS 3356,3357)
+        + When does life begin? (Philosopy/Theology - PHIL 1301, PHIL3351)
+        + Should Samuel Alito be impeached?  (American politics/Constitutional Law - POLS 3364,3356)
+        + Should Harry Blackmun be canonized? (Theology - Check with the appopriate church)
+
+## Research Questions: The First Step
+
+**Good scientific questions**
+
+1.  About cause and effect
+
+                 + "Does X cause Y?" 
+                 + "What causes Y?"
+                 + NOT "What is the value of Y?" - just measurement
+
+2.  Should be measurable
+
+3.  It should be specific at least as to the outcome (Y, dependent variable)
+
+4.  "Why" questions are most interesting: "Why do different countries adopt a different policy with regard to Y?"
+
+## Research Questions: The First Step
+
+**Good scientific question:**
+
+Does the gender of litigators (lawyers) affect judicial decisions?
+
+<iframe src="https://elizabethalane.com/" width="1000" height="300">
+
+</iframe>
+
+
+## Writing
+
+- Write a research question
+
+        - What topic are you interested in?
+        - What is the dependent variable? The "Y"? The outcome?
+        - Do you have an idea about the independent variable? The "X"? The cause?
+        - I am here to answer your questions
+        - Would anyone like to volunteer to walk through the process? *extra credit and you can leave when you're done*
+
+
+
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+
+
+
+
+
+
+
