@@ -1,0 +1,178 @@
+---
+title: |
+    | Lecture 7 - Presidential, Parliamentary, and Semi-Presidential Systems
+    | Comparative Politics - POLS 3311
+date: February 19, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Democracy - Variety of institutions
+
+- Measures
+- Key characteristics
+- What institutions can serve?
+
+
+
+## Democracy - Variety of institutions
+
+- Measures: The defining measures of democracy are very broad
+
+        - Elected legislature
+        - Elected chief executive (direct or indirect)
+        - Two or more parties
+        - Observed alternation in power as proof
+
+## Democracy - Variety of institutions
+
+- Measures
+- Key characteristics: Arguably, The key characteristic of democracy which all the others serve is *contestation* - the ability to contest the government's decisions and to replace a bad government
+
+        - Contestation
+        - Irreversability (accepting the results of contestation)
+        - Repeatability (future contestation)
+
+
+## Democracy - Variety of institutions
+
+- Measures
+- Key characteristics
+- What institutions can serve?
+
+        - Wide variety *institutions* - political rules of the game - provide contestability
+        - We can define types of democracy in a number of ways: by electoral systems, by party systems, by government structure, by location of executive power
+        
+## Presidential, Parliamentary, and Semi-Presidential Systems
+
+Distinguish types by the *location of executive power*
+
+        - Presidential
+        - Parliamentary
+        - Semi-presidential 
+
+## Questions about Presidential, Parliamentary and Semi-parliamentary labels
+
+Descriptive questions (definition):
+
+        - What do the distinctions capture?
+        - What do they miss?
+
+Scientific Questions
+
+        - What differences can we observe in choice of system?
+        - What differences can we observe in results of the systems?
+        - What type produces the most stable democracy?
+        - What type is most responsive to popular sentiment?
+        - What type best protects minority rights?
+
+## Presidentialism and Parliamentarism
+
+-  **NOT defined by:**
+-  **IS defined by:**
+
+## Presidentialism and Parliamentarism
+
+-  **NOT defined by:**
+        
+        - Presence of a parliament - all democratic systems including Presidential systems have elected legislatures and some are called parliaments
+        - Use of the word "parliament" - Some parliamentary systems have a legislature called a National Assembly or Congress
+        - Presence of a President - Parliamentary systems may have a head of state called a President
+
+## Presidentialism and Parliamentarism
+
+-  **NOT defined by:**
+-  **IS defined by: the source and accountability of executive power**
+
+        - In a parliamentary system, executive power is a parliamentary power
+        - Parliamentary systems are characterized by a lack of separation of powers
+        - In a presidential system, executive power rests in an executive (often called a President) elected by the people
+        - Presidential systems are characterized by a separation of powers with a strong, independent executive
+
+
+## Presidentialism and Parliamentarism: Examples
+
+- Presidential systems:
+- Parliamentary systems:
+- Semi-presidential systems:
+
+## Presidentialism and Parliamentarism: Examples
+
+- Presidential systems:
+
+        - United States
+        - Mexico
+        - Brazil
+        
+## Presidentialism and Parliamentarism: Examples
+
+- Presidential systems:
+- Parliamentary systems:
+
+        - United Kingdom
+        - Italy
+        - Japan
+        - The Netherlands
+        
+## Presidentialism and Parliamentarism: Examples
+
+- Presidential systems:
+- Parliamentary systems:
+- Semi-Presidential/Semi-Parliamentary Systems: 
+
+            - Portugal
+            - France
+            - Taiwan
+            
+## Parliamentarism: Definitions & Characteristics
+
+-   Prime minister/premier: head of government
+-   PM and cabinet members of parliament
+-   PM and cabinet hold executive power
+-   PM selected parliament - governing party/coalition leader
+-   PM answerable to parliament (no confidence votes)
+-   President or other head of state is largely ceremonial
+-   President may have duties around calling elections, forming governments, etc.
+-   Characterized by lack of separation of powers
+
+
+## Presidentialism: Definitions & Characteristics
+
+-   President: directly or indirectly elected by people
+-   President: not subject to parliament [^1]
+-   President holds executive power
+-   Parliament holds legislative power
+-   Characterized by separation of powers
+
+[^1]: other than exceptional circumstances such as criminal acts. Example: Impeachment for high crimes and misdemeanors in US system.
+
+
+
+## Semi-presidentialism
+
+-   Head of state: elected
+-   Head of state: more than ceremonial power
+-   Prime minister: answers to parliament
+-   Prime minister: has executive power
+-   Characterized by: split executive power, incomplete separation of powers
+   
+   
+
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
