@@ -1,0 +1,167 @@
+---
+title: |
+    | Lecture 8 - Democracy and Economic Development: Part 1
+    | Comparative Politics - POLS 3311
+date: February 21, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Democracy as Protector of Rights
+
+-   James Madison's Democracy and Republic versus today's liberal democracy
+-   Democracy as protector of rights
+-   Democracy as protector of property rights
+
+## James Madison's Republic and Today's Democracy
+
+-   Common thread today is "The United States is a Republic not a Democracy."
+
+
+              - This is mostly a result of 18th century (1780s) terminology
+              - It's also a result of people taking seriously the (important) writings of one person - James Madison who was concerned with preventing mob rule
+              - Accurate scientific understanding requires definition
+              - Even accurate philosophical consideration of the topic requires accurate definition
+
+## James Madison's Republic and Today's Democracy
+
+Is modern democracy Madison's mob rule or Madison's Republic?
+
+Is modern democracy a good protector of rights?
+
+## James Madison's Republic and Today's Democracy
+
+"The essence of Government is power; and power, lodged as it must in human hands, will ever be liable to abuse." -- 1787
+
+"Place three individuals in a situation wherein the interest of each depends on the voice of the others, and give to two of them an interest opposed to the rights of the third. Will the latter be secure? The prudence of every man would shun the danger. The rules & forms of justice suppose & guard against it. Will two thousand in a like situation be less likely to encroach on the rights of one thousand?" -- 1821
+
+## Madison's Republic
+
+-   Representative government
+-   Limited franchise
+-   Protection of political minorities
+-   Opposition to one party rule - protection against party domination
+-   Protection of basic civil liberties (Madison - Bill of Rights)
+-   Protection of property rights
+-   Fragmentation of parties to divide their power
+
+## Modern Western or liberal democracy
+
+-   representative democracy
+
+-   Universal franchise (or near)
+
+-   Protection of political minorities
+
+-   Opposition to one party rule - protection against party domination
+
+-   Protection of basic civil liberties
+
+-   Protection of property rights
+
+-   Fragmenation of parties to divide their power
+
+            
+              - US and Westminster systems - no (because of Duverger's Law)
+              - Proportional representation systems - yes
+
+
+## Alternative name - Open access social orders
+
+North, Wallis, and Weingast^[North, Douglass C., John Joseph Wallis, and Barry R. Weingast. 2009. Violence and Social Orders: A Conceptual Framework for Interpreting Recorded Human History. Cambridge: Cambridge University Press.] call modern liberal democracies "open access social orders" and define them by:
+
+-   widespread political participation
+-   the use of elections to select governments
+-   constitutional arrangements to limit and define the powers of government
+-   unbiased application of the rule of law
+
+## Democracy as protector of rights
+
+-   The evolution of democracy from monarchy
+
+           
+              - Establishment of parliaments
+              - Limits on the power of kings
+              - Guarantees of rights for subjects
+
+
+-   English example:
+
+              - The Witan
+              - Magna Carta
+              - Parliament
+              - The Commonwealth
+              - The return of Monarchy
+    
+
+## Democracy as protector of property rights
+
+-   Demands almost exclusively involved the king's demands on the property of the subjects
+
+-   Kings were forced to get the consent of subjects to taxation
+
+-   The price of taxation was often representation in a parliament
+
+            
+              - Magna Carta (1215)
+              - US Revolution - No taxation without representation (1776)
+   
+
+## Is democracy an effective protector of rights?
+
+-   Historically, representative government was a protection against abuses by the king
+
+## Is democracy an effective protector of rights?
+
+-   Historically, representative government was a protection against abuses by the king
+-   Democracy evolved to guarantee the rights of an ever expanding group of people
+
+
+## Is democracy an effective protector of rights?
+
+-   Historically, representative government was a protection against abuses by the king
+-   Democracy evolved to guarantee the rights of an ever expanding group of people
+- Eventually the king disappeared (US, Latin America, parts of Asia and Africa) or became irrelevant (UK and Europe, Commonwealth, parts of Asia)
+
+## Is democracy an effective protector of rights?
+
+-   Historically, representative government was a protection against abuses by the king
+-   Democracy evolved to guarantee the rights of an ever expanding group of people
+- Eventually the king disappeared (US, Latin America, parts of Asia and Africa) or became irrelevant (UK and Europe, Commonwealth, parts of Asia)
+
+## Is democracy an effective protector of rights?
+
+What are some scientific questions surrounding democracy and rights?
+
+## Is democracy an effective protector of rights?
+
+- Is democracy an effective protector of civil liberty rights generally?
+- Is democracy an effective protector of civil rights? 
+- Is democracy an effective protector of property rights specifically?
+- Are countermajoritarian institutions necessary for protection of rights?
+- Are countermajoritarian institutions healthy for contestation in democracies?
+
+
+
+
+
+
+
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
