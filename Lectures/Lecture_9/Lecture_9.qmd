@@ -1,0 +1,298 @@
+---
+title: |
+    | Lecture 9 - Electoral Systems in Democracies/Institutions in Non-Democracies
+    | Comparative Politics - POLS 3311
+date: March 4, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Agenda & Announcements
+
+
+- Midterm the Wednesday after Spring Break; **Short** Review Monday after Spring Break
+- Electoral Systems in Democracies
+- Institutions in Non-Democracies: Wednesday 
+- Wednesday: Article ": "Are electoral autocracies better for the poor? Evidence from social assistance programs" 
+
+
+# Electoral Systems 
+
+## Overview: Types of electoral and party systems
+
+-   Why measure electoral systems? What might we be measuring?
+
+-   Simple models of outcomes (Hotelling, Downs, Duverger)
+
+      + What is a model? Why use simple models? Simple models in the real world?
+
+
+-   Dimensions of electoral systems
+
+      + Majoritarian vs Proportional
+      + Types of Proportional
+
+
+
+## Why we study it - Normative concerns
+
+**Broad representation and avoiding extremism**
+
+**Powell**: "This work is explicitly driven by a normative concern: the claim of democracies to be governments in which the people participate in policy making." **Broad proportional representation of all positions**
+
+**Cox**: "the degree to which they create either centripetal or centrifugal incentives. Centripetal incentives lead political parties (or candidates) to advocate centrist policies; centrifugal incentives, on the other hand, lead to the advocacy of more or less extreme positions." **Extremism versus centrism**
+
+## The normative concerns
+
+- These two normative concerns represent a trade-off
+- Science can not tell use which is more important
+- Science can tell us how systems work in terms of encouraging broad representation, centifugal, and centripetal incentives
+
+
+## Major focus
+
+**Given the broad normative concerns, the major focus:**
+
+-   **is not** about individual parliamentary seats
+
+-   **Is** about electing Head of Government
+
+              + About President in Presidential systems
+              + About Prime Minister in Parliamentary systems
+
+-   **Is** about total balance of power in parliament in both systems
+
+## What is a model? Why a simple model?
+
+-   A model is an abstract way of conceptualizing behavior
+-   A model ideally is measurable with real data
+-   Simplest possible model - one effect a time
+-   How can we test or examine a simple model in the real world?
+
+## Hotelling's Main Street Model
+
+-   Hotelling's Main Street Model is a simple model of competition
+
+            + Model of two businesses used as analogy for two candidates/parties
+            + Important assumption: A single road (Main Street) 
+            + Important assumption: two businesses 
+            + Important assumption: balanced geographic population distribution 
+            
+            + Principle of minimum differentiation or "Hotelling's law"
+            
+
+## Median Voter Theorem - Black 1948/Downs 1957
+
+**Assumptions:**
+
+1 - two candidates
+
+2 - a single dimension of ideology
+
+3 - Majority rule[^1]
+
+[^1]: Technically the election is required to satisfy the *Condorcet winner criterion*. A simple majority system is the simplest way to do this.
+
+4 - "single peak" for individual voters ideological preferences
+
+
+## Median Voter Theorem - Black 1948/Downs 1957
+
+**Any electoral system which meets the key assumptions will elect the candidate closest to the median voter.**
+
+
+## How do we end up on Main Street?
+
+**How do we end up in an election that is comparable to Hotelling's description of Main Street for businesses?**
+
+Alternately: How do we end up with two non-trivial parties/candidates to satisfy assumption 1 of Median Voter Theorem?
+
+## How do we end up on Main Street?
+
+**de jure** - legal limits allowing only two candidates
+
+**de facto** - some feature of the system results in two parties
+
+## How do we end up on Main Street?
+
+**de jure** - legal limits allowing only two candidates
+
+This is almost never the reason.
+
+**de facto** - Features of the system, such as...
+
+## Duverger's Law
+
+**Duverger's Law**: Single ballot majoritarian systems[^2] with single member districts tend to produce strong two party systems.
+
+[^2]: The strongest form of these are First Past the Post systems which require only a plurality
+
+            - Parties have incentive to concentrate effort
+            - Voters have incentive to vote for a likely winning second choice over a likely losing first choice
+
+
+
+
+## Dimensions of electoral systems
+
+1.  Number of members in district (District magnitude)
+
+2.  Ballot structure 
+
+3.  Number of competitors 
+
+4.  Allocation of seats
+
+
+## Dimensions of electoral systems
+
+1.  Number of members in district (District magnitude)
+
+Examples:
+
+        -   District Magnitude 1 - voters choose a single seat. US House of Representatives, UK House of Commons
+        -   District magnitude 400 - South Africa. All voters select all 400 members of Parliament
+        -   District magnitude 150 - Netherlands. All voters select all 150 seats.
+        
+More Examples:
+
+        -   US Electoral College - Texas (38 House Members)
+        -   US Electoral College - Alaska (1 House Member)
+        -   Northern Irish Assembly - all districts elect 5 members
+        -   US Senate
+
+## Dimensions of electoral systems
+
+1.  Number of members in district (District magnitude)
+
+2.  Ballot structure 
+
+        - Number of votes per voter
+        - Partial abstention allowed?
+        - Cumulative votes (in multiple member districts)
+        - Runoff or no runoff, ranked choice
+        
+## Dimensions of electoral systems
+
+1.  Number of members in district (District magnitude)
+
+2.  Ballot structure 
+
+        - Number of votes per voter
+        - Partial abstention allowed?
+        - Cumulative votes (in multiple member districts)
+        - Runoff or no runoff, ranked choice
+      
+3.  Number of competitors - *de jure* or *de facto*
+       
+## Dimensions of electoral systems
+
+1.  Number of members in district (District magnitude)
+
+2.  Ballot structure 
+
+3.  Number of competitors 
+
+4.  Allocation of seats
+
+        - Majoritarian
+        - Proportional: Open list or closed list
+
+
+## Dimensions of electoral systems: Majoritarian 
+
+### Majoritarian
+
+**First past the post** (FPTP)
+
+- simplest majoritarian system (not only)
+- voting by candidate
+- one seat per district (one winner is seated per district)
+- one vote per voter
+- highest vote getter wins (plurality)
+- no runoff
+
+
+## Dimensions of electoral systems:
+
+### Proportional representation
+        
+- Multiple member districts (magnitude 2+)
+- Seats awarded proportional to vote received by the party
+- Voters may choose parties (closed list) or may choose parties and candidates (open list)
+
+## Proportional representation: Apportionment of votes
+
+-   May be a minimum vote threshhold
+-   Different methods benefit different size parties
+-   largest remainder method - example, Hare quota method
+
+Exceeding $\frac{totalvotes}{totalseats}$ guarantees a seat
+
+-   Divisor methods - example, d'Hondt method
+
+$quot = \frac{V}{s + 1}$
+
+V = total votes received by party; s = number of seats party received so far; Largest quotient gets the next seat
+
+## Apportionment
+
+Election outcome
+
+-   Orange 221 votes
+
+-   Green 123 votes
+
+-   Yellow 97 votes
+
+-   Total Votes: 441
+
+-   Total seats: 25
+
+
+
+
+
+
+## Recap: Majoritarian vs Proportional Representation
+
+     
+- Proportional represetnation (PR) has multiple member districts; Majoritarian has single member districts
+- PR is allocated according to the percent of vote the party receives; in M the winner gets the seat
+- PR has two major subtypes - open list and closed list
+            
+             Closed list, the party picks which candidate is seated; open list, the voters choose the party and the candidate.
+            - Do not confuse open list with primaries which are a feature of Majoritarian systems
+            
+- PR is more likely to have multiple parties; M is more likely to have two parties (Duverger's law)
+
+
+## Majoritarian Systems
+
+
+
+
+# Varieties of Non-democracy
+
+
+
+
+
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
