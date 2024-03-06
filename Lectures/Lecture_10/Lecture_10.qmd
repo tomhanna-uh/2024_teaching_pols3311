@@ -32,19 +32,19 @@ editor: source
 
 -   Liberal Democracies
 
-    ```         
+        
               + Liberal Democracy (VDem)
               + Consolidated Democracy (Polity)
               + Flawed Democracy (general)
-    ```
+
 
 -   Anocracy (Polity) / Mixed regimes / Hybrid Regimes
 
-    ```         
+       
               + Electoral Democracy (Vdem)
               + Electoral Autocracy (VDem)
               + Competitive Autocracy (general)
-    ```
+
 
 -   Closed autocracy (VDem)
 
@@ -56,23 +56,23 @@ editor: source
 
 -   Polity (Center for Systemic Peace)
 
-    ```         
+        
               + 21- point scale
               + hereditary monarch (-10)
               + consolidated democracy (+10)
               + Autocracies (-10 to -6), anocracies (-5 to +5), democracies (+6 to +10)
               + 6 measures of executive recruitment, constraints, political competition, and institutional quality
-    ```
+
 
 -   Varieties of Democracy Project
 
-    ```         
+        
               + "Question: How can the political regime overall be classified considering the competitiveness of access to power (polyarchy) as well as liberal principles?"
               + 0: Closed autocracy 
               + 1: Electoral autocracy (multi-party elections)
               + 2: Electoral democracy (free and fair, multi-party elections, lacking other features of liberal democracy)
               + 3: Liberal democracy
-    ```
+
 
 ## Types by institution
 
@@ -99,10 +99,10 @@ The main motivation of dictators is to gain power and once in power retain that 
 
 -   Selectorate (S)
 
-    ```         
+       
               + Nominal selectorate - Interchangeables 
               + Real selectorate - Influentials 
-    ```
+
 
 -   Winning Coalition (W) - Essentials
 
@@ -112,18 +112,23 @@ The main motivation of dictators is to gain power and once in power retain that 
 
 Democracy - large coalition regime
 
-```         
+   
             + Large winning coalition
             + Leader uses public goods to satisfy W
-```
+
 
 Dictatorship - small coalition regime
-
-```         
+       
             + Small winning coalition
             + Leader uses private good to satisfy W
             
-```
+
+## Selectorate Theory
+
+Available to read online at UH Libraries
+
+Bueno de Mesquita, Bruce, and Smith, Alastair. *The Dictator's Handbook : Why Bad Behavior is Almost Always Good Politics.* New York: PublicAffairs, 2011. Accessed March 6, 2024. ProQuest Ebook Central.
+
 
 ## Dictator's Handbook: Five Rules
 
@@ -132,6 +137,8 @@ Dictatorship - small coalition regime
 3.  Redistribute from the masses to supporters (W)
 4.  Pay W just enough. Satisfy but don't empower.
 5.  Never redistribute from W to the masses.
+
+
 
 ## Typologies by other characteristics: Geddes
 
@@ -142,6 +149,13 @@ Dictatorship - small coalition regime
 -   Hybrid dictatorships
 
 (Geddes 2012)(Geddes, Frantz and Wright 2014)
+
+## Typologies by other characteristics: Weeks
+
+Available online at UH Libraries
+
+Weeks, Jessica L. P.. *Dictators at War and Peace.* Ithaca: Cornell University Press, 2014. Accessed March 6, 2024. ProQuest Ebook Central.
+
 
 ## Typologies by other characteristics: Weeks
 
