@@ -86,7 +86,69 @@ editor: source
 ## Why do dictatorships have legislatures, elections, and opposition parties?
 
 - To provide a facade of legitimacy - rubber stamp for elite decisions
+
+
+## Why do dictatorships have legislatures, elections, and opposition parties?
+
+- To provide a facade of legitimacy - rubber stamp for elite decisions
+- To provide a channel for elite competition
+
+
+## Why do dictatorships have legislatures, elections, and opposition parties?
+
+- To provide a facade of legitimacy - rubber stamp for elite decisions
 - To provide a channel for elite competition
 - To co-opt opposition
 - To decide on selected areas of policy unimportant to the ruling elite
+
+## Policy Areas: Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. What might explain that?
+
+
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments.^[1. Wright, Joseph. 2008. “Do authoritarian institutions constrain? How legislatures affect economic growth and investment.” American journal of political science 52(2): 322–343.] What might explain that?
+
+        - Less expropriation/arbitrary taxation - better property rights and rule of law
+        - More predictable policy / better stability
+        - Less threat of mass unrest
+        - The legislature is regulating something that is important to investors and outside the major concerns of the ruling elite
+        
+
+        
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. What might explain that?
+
+- Wright (2008) thought that it was about risk of expropriation, confiscation of property by the regime
+
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. What might explain that?
+
+- Wright (2008) thought that it was about risk of expropriation, confiscation of property by the regime
+
+Would the dictator want to give up the options of confiscation and taxation? Under what circumstances?
+
+
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. 
+
+
+- The legislature is regulating something that is important to investors and outside the major concerns of the regime
+
+
+
+- Corporate governance^[Jensen, Nathan M., Edmund Malesky, and Stephen Weymouth. 2014. “Unbundling the Relationship between Authoritarian Legislatures and Political Risk.” British journal of political science 44(3): 655–684.]
+
+        - Provides a forum for "horse trading" between the private parties that have an interest in the rules
+        - Takes those rules out of the hands of the dictator and ruling elite
+        - Provides a measure of security to investors that corporate governance will be stable
+        - Does not address more general property rights or rule of law concerns
+        
+
+
+
 
