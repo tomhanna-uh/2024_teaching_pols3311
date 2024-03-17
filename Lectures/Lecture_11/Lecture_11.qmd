@@ -1,0 +1,92 @@
+---
+title: |
+    | Lecture 11 - Non-democratic legislatures and parties
+    | Comparative Politics - POLS 3311
+date: March 18, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Agenda
+
+- Procedural updates and announcements
+- Review of legislatures and parties in democracies
+- Non-democratic legislatures and parties
+
+## Updates and announcements
+
+- Class dismissal time 
+- Written assignments
+- Midterm
+
+## Updates and announcements
+
+- Class dismissal time 
+
+        - University policy is ten minutes to the hour or half-hour regardless of class length
+        - Most classes are 90-minutes anyway
+        - If you need to leave early, please do not leave during the last five minutes while class is wrapping up as that is the most disruptive time
+        
+## Updates and announcements       
+        
+- Written assignments 
+
+        - If you need to leave before I collect them, just leave them up front 
+        - Many of these are intended to be thinking exercises where the process matters more than the final answer
+        - There will be some to check reading done before class, especially with the articles for discussion
+        
+## Updates and announcements 
+
+- Midterm
+
+        - Postpone until March 27
+        - Midterm review is posted
+        - Review session will be Wednesday and will focus on important points and your questions, so check out the review before then
+        - Some midterm questions will be intended to challenge you to apply, analyze, and evaluate, not just memorize
+        
+## Review of legislatures and parties in democracies
+
+- Why do democracies have legislatures, elections, and opposition parties?
+
+- How limited are legislatures in democracies?
+
+
+
+## Why do democracies have legislatures, elections, and opposition parties?
+
+- Contestation and participation
+- Representation
+- Deliberation (Trusteeship)
+- Oversight
+
+## How limited are legislatures in democracies?
+
+- Limited by the executive
+- Limited by the courts (constitutional limits)
+- Limited by the party system
+- Limited by the electoral system
+- Limited by the media
+- Limited by the public
+
+## Non-democratic Legislatures and Parties
+
+- Why do dictatorships have legislatures, elections, and opposition parties?
+
+- Do legislatures have any real power in dictatorship? Do they mean anything in dictatorships?
+
+## Why do dictatorships have legislatures, elections, and opposition parties?
+
+- To provide a facade of legitimacy - rubber stamp for elite decisions
+- To provide a channel for elite competition
+- To co-opt opposition
+- To decide on selected areas of policy unimportant to the ruling elite
+
