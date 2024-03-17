@@ -22,7 +22,7 @@ editor: source
 
 - 27 multiple choice. 1 points each
 - 3 short written questions - choose two! 5 points each
-- 2 floating "bonus" points
+- 35 points, 2 floating "bonus" points
 - 2 designated bonus questions, choose one! - 5 points (These will be hard)
 
 ## Types of questions
@@ -206,10 +206,61 @@ Prisoner's Dilemma
 
 ## Electoral Systems (Lecture 9)
 
+- What are the two values based concerns (normative concerns) that drive our questions about electoral systems? Describe the trade-off
+- The study of electoral systems is not about individual parliamentary seats. What are we studying?
+- What are the dimensions of electoral systems?
+- Questions:
 
-- Electoral Systems: Majoritarian vs Proportional Representation (PR)
+        - What is district magnitude?
+        - What is the difference between a single member district and a multi-member district?
 
+## Electoral Systems (Lecture 9)
+
+- What is proportional representation?
+
+        - What is closed list?
+        - What is open list
+        
+- Questions: 
+
+        - Given example of a system, can you identify whether it is majoritarian or proportional? 
+        - Given examples of two systems, can you identify which is more majoritarian and which is proportional?
+        - What is the district magnitude of a PR system?
+        - What are the two general methods of allocating seats? (Hare and d'Hondt are given as examples of the general methods)
+        - Can you allocate seats using the d'hondt method (used in class)? 
+        
+$quot = \frac{V}{s + 1}$
+        
 
 ## Party systems - two party versus multiparty (Lecture 9)
 
+- What is a party system?
+- What is the difference between a two party and a multiparty system?
+- What is Duverger's Law? 
 
+
+## Electoral Outcomes (Lecture 9)
+
+- Median voter theorem
+
+        - What does it say we should expect?
+        - How many candidates?
+        - How many dimensions of ideology? (That is, how many issue groups are there?)
+        - What is the voting rule?
+
+- Median: The voter whose preferences are in the exact middle of all voters' preferences. 
+
+- Question: What happens if a third candidate enters to the left or right of the two main candidates and why? (Think about the Hotelling Main Street model of competition)
+
+
+## Authorship, License, Credits
+
+Do not submit to Chegg or similar websites
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
