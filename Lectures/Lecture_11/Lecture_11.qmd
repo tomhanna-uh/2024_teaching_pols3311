@@ -64,9 +64,9 @@ editor: source
 ## Why do democracies have legislatures, elections, and opposition parties?
 
 - Contestation and participation
-- Representation
-- Deliberation (Trusteeship)
-- Oversight
+- Representation (Delegate, Trustee)
+- Deliberation 
+- Executive Oversight/Constraint
 
 ## How limited are legislatures in democracies?
 
@@ -99,7 +99,64 @@ editor: source
 - To provide a facade of legitimacy - rubber stamp for elite decisions
 - To provide a channel for elite competition
 - To co-opt opposition
-- To decide on selected areas of policy unimportant to the ruling elite
+
+
+## Why do dictatorships have legislatures, elections, and opposition parties?
+
+- To provide a facade of legitimacy - rubber stamp for elite decisions
+- To provide a channel for elite competition
+- To co-opt opposition
+- To decide on selected areas of policy unimportant to the ruling elite (can apply to all of the above)
+
+
+        
+## Legislature's and Elite Competition
+
+Why would a dictator want to provide a channel for elite competition?
+
+## Legislature's and Elite Competition
+
+Why would a dictator want to provide a channel for elite competition?
+
+- Selectorate theory: different groups of Interchangeables, different potential allies
+- Let factions compete openly, dictator doesn't have to alienate any group
+- Monitoring and control of potential rivals
+
+## Legislature's and Elite Competition: Monitoring and control of potential rivals
+
+- Lack of transparency is a noted feature of dictatorships
+- Legislatures can provide a window into the motivations of potential rivals
+- Legislatures can provide a forum for the dictator to monitor potential rivals^[Boix, Carles, and Milan W. Svolik. 2013. “The Foundations of Limited Authoritarian Government: Institutions, Commitment, and Power-Sharing in Dictatorships.” The journal of politics 75(2): 300–316.]
+
+
+        
+## Legislature's Co-opting opposition
+
+- Threat of rebellion - give some opponents a stake in the regime's survival by offering a seat at the table^[Gandhi, Jennifer, and Adam Przeworski. 2006. “Cooperation, Cooptation, and Rebellion under Dictatorships.” Economics & Politics 18(1): 1–26.]
+- Dictator's can use the legislature to co-opt opposition with policy concessions and economic rent sharing^[Gandhi, Jennifer, and Adam Przeworski. 2007. “Authoritarian Institutions and the Survival of Autocrats.” Comparative Political Studies 40(11): 1279–1301.]
+
+
+
+## Legislature's Co-opting opposition
+
+Buying off the opposition with money. How would Selectorate Theory (Dictator's Handbook) look at this? Good or bad politics?
+
+## Legislature's Co-opting opposition
+
+Buying off the opposition with money. How would Selectorate Theory (Dictator's Handbook) look at this? Good or bad politics?
+
+- Bad politics. Redistributing to the Selectorate. 
+
+## Legislature's Co-opting opposition
+
+Offering a seat at the table. How would Selectorate Theory (Dictator's Handbook) look at this? Good or bad politics?
+
+## Legislature's Co-opting opposition
+
+Offering a seat at the table. How would Selectorate Theory (Dictator's Handbook) look at this? Good or bad politics?
+
+- Good politics. Expanding the pool of Interchangeables reduces the power of the Winning Coalition over the dictator. 
+
 
 ## Policy Areas: Legislature's and the investment environment
 
@@ -129,7 +186,32 @@ Legislatures with active opposition are associated with improved investment envi
 
 - Wright (2008) thought that it was about risk of expropriation, confiscation of property by the regime
 
-Would the dictator want to give up the options of confiscation and taxation? Under what circumstances?
+## Legislature's and the investment environment
+
+Would the dictator want to give up the options of confiscation and taxation? Under what circumstances would the ability to tax be less important to the dictator than satisfying investors?
+
+## Legislature's and the investment environment
+
+Why would dictator give up power to confiscate wealth?
+
+- The stationary bandit model suggests that dictators with longer time horizons will give up current revenue for future revenue.
+- Knutsen and Fjelde (2013) find that (autocratic) monarchies protect property rights better than other autocracies^[Knutsen, Carl Henrik, and Hanne Fjelde. 2013. “Property rights in dictatorships: kings protect property better than generals or party bosses.” Contemporary Politics 19(1): 94–114.]
+
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. What are some other things that concern investors and might matter less to the dictator?
+
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. What are some other things that concern investors and might matter less to the dictator?
+
+Turns out it is really boring...
+
+## Legislature's and the investment environment
+
+Legislatures with active opposition are associated with improved investment environments. What are some other things that concern investors and might matter less to the dictator?
+
+Turns out it is really boring... corporate governance
 
 
 ## Legislature's and the investment environment
@@ -143,12 +225,16 @@ Legislatures with active opposition are associated with improved investment envi
 
 - Corporate governance^[Jensen, Nathan M., Edmund Malesky, and Stephen Weymouth. 2014. “Unbundling the Relationship between Authoritarian Legislatures and Political Risk.” British journal of political science 44(3): 655–684.]
 
-        - Provides a forum for "horse trading" between the private parties that have an interest in the rules
+        - Provides a forum for "horse trading" between the private parties that have an interest in the corporate rules
         - Takes those rules out of the hands of the dictator and ruling elite
         - Provides a measure of security to investors that corporate governance will be stable
         - Does not address more general property rights or rule of law concerns
         
+## Dictatorial Legislatures: Real power?
+        
+Do legislatures have any real power in dictatorship? Do they mean anything in dictatorships?
 
-
-
-
+- They can't successfully do anything except provide a facade of legitimacy without some power
+- Investment results indicate they do have real power^[Wright 2008]
+- Real power requires a credible threat of rebellion, a balance between within the ruling coalition ^[Boix, Carles, and Milan W. Svolik. 2013.]
+- Real power requires a credible threat of rebellion, a balance between within the ruling coalition, and a credible threat of rebellion from the public ^[Gandhi, Jennifer, and Adam Przeworski. 2007.]
