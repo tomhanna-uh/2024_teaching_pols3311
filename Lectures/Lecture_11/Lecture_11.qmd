@@ -61,10 +61,15 @@ editor: source
 
 ## Why do democracies have legislatures, elections, and opposition parties?
 
+- One word central to democracy?
+
+- Other reasons?
+
 
 ## Why do democracies have legislatures, elections, and opposition parties?
 
-- Contestation and participation
+- Contestation
+- Participation
 - Representation (Delegate, Trustee)
 - Deliberation 
 - Executive Oversight/Constraint
@@ -243,3 +248,16 @@ Do legislatures have any real power in dictatorship? Do they mean anything in di
 - Investment results indicate they do have real power^[Wright 2008]
 - Real power requires a credible threat of rebellion, a balance between within the ruling coalition ^[Boix, Carles, and Milan W. Svolik. 2013.]
 - Real power requires a credible threat of rebellion, a balance between within the ruling coalition, and a credible threat of rebellion from the public ^[Gandhi, Jennifer, and Adam Przeworski. 2007.]
+
+
+
+
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
