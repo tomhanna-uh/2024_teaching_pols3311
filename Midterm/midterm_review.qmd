@@ -1,0 +1,215 @@
+---
+title: |
+    | Midterm Review
+    | Comparative Politics - POLS 3311
+date: March 20, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+# Midterm Review - Format
+
+## Questions
+
+- 27 multiple choice. 1 points each
+- 3 short written questions - choose two! 5 points each
+- 2 floating "bonus" points
+- 2 designated bonus questions, choose one! - 5 points (These will be hard)
+
+## Types of questions
+
+- Not all memorization
+- You will be expected to
+
+        - Remember basic material
+        - Show understanding of basic concepts
+        - Apply basic concepts to new situations
+        - Analyze and evaluate based on basic concepts
+
+##  Format
+
+- No bluebook or scantron needed
+- You can write on the test paper
+- You may fill one 8.5 x 11 paged with handwritten notes, front and back **OR** use your notecards
+- No other notes, books, or electronic devices are allowed to be out during the test
+
+
+#Midterm Review - Topics
+
+## Basic topics
+
+- What is politics? What is the state? What is comparative politics? (Lecture 1 and 2)
+- Science - Scientific Method (Lecture 2) - Research questions
+- Comparative Method
+- Collective Choice
+- Types of government: Democracy vs Dictatorship
+- Forms of Democratic Government: Presidential vs Parliamentary Systems
+- Electoral Systems: Majoritarian vs Proportional Representation (PR)
+- Party Systems
+
+## Study Tips
+
+-  Review lecture materials
+
+  
+             - Bold, italic, and capitalized words reflect major concepts 
+             - Repeated items are important
+             - Know the broad categories basic definitions 
+    
+
+-  Know key distinctions - how do they differ?
+
+          
+             - Political Science vs Political Theory  (Postive/Empirical versus Normative/Philosophy) (Lecture 1, Lecture 2)
+             - Types of goods - rival vs nonrival, excludable vs non-excludable
+             - Democracy vs Non-democracy
+             - Presidential vs Parliamentary
+             - Proportional Representation vs Majoritarian
+             - Closed list vs Open list (very general idea)
+   
+## Study Tips
+
+- Check the "For your reference" section for background information/fuller understanding. I have moved this from the Readings to the Midterm Information Module
+- Read the **Background Readings** if you have not already and are unclear on concepts
+- Review outside resources linked in lecture materials - this will definitely help with one bonus question. Hint: William Spaniel Video
+
+             
+# Specific topic review
+
+# What is politics (Lecture 1)
+
+- Basic definitions of
+
+        - Politics
+        - The state
+
+- Review written questions 1 and 2. 
+- Think about the relevance of question 3 to how we define politics, the importance of politics, etc.
+- Difference between political science and political theory
+- What is different about the state compared to other organizations?
+- Difference between political science and economics? Political science and sociology?
+
+## Scientific Method (Lecture 2, Lecture 4)
+
+- What is science? Three vital elements
+- Science and philosophy: which one describes the world as it is and which is concerned with how the world should be?
+- What is the scientific method? 5 steps, order matters
+- What is a hypothesis?
+- What is a research question? 
+
+        - What is the one vital element that it has to be specific about?
+        - What are some examples of important but non-scientific questions?
+        
+## Reading scientific articles (Lecture 4)
+
+- Few specifics from this, but it is important to understanding the Scientific Method questions
+- Focus on research questions
+- What is the difference between a research question and a hypothesis? Think about where they are each found in the paper and how that relates to the steps of the scientific method
+        
+## Comparative Method (Lecture 1)
+
+- Method of Difference and Method of Similarity
+- Size of study (case study, quantitative, qualitative)
+- Types of study
+
+
+## Collective Choice (Lecture 3, 5)
+
+- How do questions of collective choice relate to political science? 
+        
+        - What are the three solutions to collective action problems?
+        - Are all collective choice problems solved politically?
+        - What other fields of study are interested in collective choice problems? 
+        - How do they differ from the political science approach?
+        
+- Why is collective action sometimes a problem?
+
+        - do rational individual choices always lead to rational collective outcomes?
+        - optimal use - externalities in ____ goods
+        - efficient use - incentives in ____ goods
+        - prisoner's dilemma
+        - free rider problem
+        - tragedy of the commons
+        - Arrow's impossibility theorem
+
+- types of goods 
+
+        - rival vs nonrival
+        - excludable vs non-excludable
+        
+## Collective Choice (Lecture 3, 5)
+
+Thought question:
+
+> How does Arrow's impossibility theorem relate to the types of goods that are most efficiently provided by government versus private action? (Note: Efficiency is only consideration here. Considerations of fairness in considering diverse preferences also come into play. This is an example of how scientific thinking can help solve moral/ethical dilemmas. Feel free to examine the fairness aspect as well.) As an analogy, in class I gave voting on whether to have pizza, tacos, or seafood for a catered group lunch. Think about this versus ordering individually at a restaurant without voting. 
+        
+
+## Collective Choice (Lecture 3, 5)
+
+Prisoner's Dilemma
+
+> Under what circumstances might it matter if the prisoner's are allowed to talk? Think about this in terms of the values of the outcomes. When would talking change those values? 
+
+> What could the two thieves do in advance of getting caught to ensure cooperation? Again consider the values of the outcomes.
+
+
+## Types of government: Democracy vs Dictatorship (Lecture 6)
+
+- Definition and key features of democracy
+
+        - Modern liberal democracy
+        - Is democracy just any government that does nice things for the people?
+        - Are elections enough?
+        
+- Features of democracy:
+
+        - What are the three features of democracy?
+        - What is the core feature of democracy that the other rules are designed to ensure? (Lecture 7)
+        - What are the ex ante (before the election) and ex post (after the election) features of democracy?
+
+- Four rules for democracy:
+
+        - Comparative politics turns the features into Four rules for defining a democracy. What are they?
+
+## Dictatorship
+
+- What is a dictatorship? (Lecture 6)
+
+        - Historically and semantically
+        - In practice
+        - Where do "middle ground" regimes that lack full features of democracy fit in a binary democracy/dictatorship classification?
+        
+## Forms of Democratic Government: Presidential vs Parliamentary Systems (Lecture 7)
+
+- What is the key difference between a presidential and parliamentary system?
+
+- Differences and similarities:
+
+        - Which system is characterized by a separation of powers?
+        - Which system is characterized by a separate election of the chief executive?
+        - Do Presidential systems have parliaments (legislatures)?
+        - Can parliamentary systems have Presidents?
+        - In which system is the executive more likely to be removed by the legislature?
+        - In which system is the head of government a member of the legislature?
+        
+- Name one example each of a country with a Presidential, Semi-presidential, and Parliamentary system
+
+
+## Electoral Systems (Lecture 9)
+
+
+- Electoral Systems: Majoritarian vs Proportional Representation (PR)
+
+
+## Party systems - two party versus multiparty (Lecture 9)
+
+

@@ -22,7 +22,7 @@ editor: source
 - Midterm the Wednesday after Spring Break; **Short** Review Monday after Spring Break
 - Electoral Systems in Democracies
 - Institutions in Non-Democracies: Wednesday 
-- Wednesday: Article ": "Are electoral autocracies better for the poor? Evidence from social assistance programs" 
+- Wednesday: Article: "Are electoral autocracies better for the poor? Evidence from social assistance programs" 
 
 
 # Electoral Systems 
