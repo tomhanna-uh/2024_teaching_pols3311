@@ -59,6 +59,7 @@ editor: source
 
 - How limited are legislatures in democracies?
 
+## Why do democracies have legislatures, elections, and opposition parties?
 
 
 ## Why do democracies have legislatures, elections, and opposition parties?
@@ -67,6 +68,8 @@ editor: source
 - Representation (Delegate, Trustee)
 - Deliberation 
 - Executive Oversight/Constraint
+
+## How limited are legislatures in democracies?
 
 ## How limited are legislatures in democracies?
 
@@ -82,6 +85,8 @@ editor: source
 - Why do dictatorships have legislatures, elections, and opposition parties?
 
 - Do legislatures have any real power in dictatorship? Do they mean anything in dictatorships?
+ 
+- From the point of view of the executive, are the differences between democratic and non-democratic legislatures about motivation, about power, or both?
 
 ## Why do dictatorships have legislatures, elections, and opposition parties?
 
