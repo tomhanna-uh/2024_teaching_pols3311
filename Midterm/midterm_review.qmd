@@ -52,6 +52,9 @@ editor: source
 - Comparative Method
 - Collective Choice
 - Types of government: Democracy vs Dictatorship
+
+## Basic topics 2
+
 - Forms of Democratic Government: Presidential vs Parliamentary Systems
 - Electoral Systems: Majoritarian vs Proportional Representation (PR)
 - Party Systems
@@ -95,6 +98,9 @@ editor: source
 - Review written questions 1 and 2. 
 - Think about the relevance of question 3 to how we define politics, the importance of politics, etc.
 - Difference between political science and political theory
+
+# What is politics (Lecture 1) - page 2
+
 - What is different about the state compared to other organizations?
 - Difference between political science and economics? Political science and sociology?
 
@@ -141,21 +147,22 @@ editor: source
         - tragedy of the commons
         - Arrow's impossibility theorem
 
+## Collective Choice (Lecture 3, 5) - page 2
+
 - types of goods 
 
         - rival vs nonrival
         - excludable vs non-excludable
         
-## Collective Choice (Lecture 3, 5)
+## Collective Choice (Lecture 3, 5) - Thought question
 
-Thought question:
 
 > How does Arrow's impossibility theorem relate to the types of goods that are most efficiently provided by government versus private action? (Note: Efficiency is only consideration here. Considerations of fairness in considering diverse preferences also come into play. This is an example of how scientific thinking can help solve moral/ethical dilemmas. Feel free to examine the fairness aspect as well.) As an analogy, in class I gave voting on whether to have pizza, tacos, or seafood for a catered group lunch. Think about this versus ordering individually at a restaurant without voting. 
         
 
-## Collective Choice (Lecture 3, 5)
+## Collective Choice (Lecture 3, 5) - Prisoner's Dilemma
 
-Prisoner's Dilemma
+
 
 > Under what circumstances might it matter if the prisoner's are allowed to talk? Think about this in terms of the values of the outcomes. When would talking change those values? 
 
@@ -201,7 +208,7 @@ Prisoner's Dilemma
         - In which system is the executive more likely to be removed by the legislature?
         - In which system is the head of government a member of the legislature?
         
-- Name one example each of a country with a Presidential, Semi-presidential, and Parliamentary system
+- Name one example each of a country with a Presidential, Semi-presidential, and Parliamentary system (intended to be easy points!)
 
 
 ## Electoral Systems (Lecture 9)
@@ -227,9 +234,9 @@ Prisoner's Dilemma
         - Given examples of two systems, can you identify which is more majoritarian and which is proportional?
         - What is the district magnitude of a PR system?
         - What are the two general methods of allocating seats? (Hare and d'Hondt are given as examples of the general methods)
-        - Can you allocate seats using the d'hondt method (used in class)? 
+        - Can you allocate seats using the d'hondt method (used in class) or the Hare Method (bonus bonus)? 
         
-$quot = \frac{V}{s + 1}$
+$quot = \frac{V}{s + 1}$ 
         
 
 ## Party systems - two party versus multiparty (Lecture 9)
