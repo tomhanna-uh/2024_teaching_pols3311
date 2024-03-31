@@ -3,207 +3,275 @@ title: "Midterm: POLS 3311, Spring 2024"
 format:
   html:
     self-contained: true
+    page-layout: article
 editor: source
 ---
+Name: _________________________
 
-## Section 1: Multiple Choice (4 points each)
+## Section 1: Multiple Choice (1 point each)
+Circle the correct answer for each question. For multiple answer questions, circle all that apply.
 
 1.  When something is proved by observation or experiment rather than pure logic or theory, it is said to be proved:
 
-    ```         
+            
              A - theoretically
              B - thoroughly
              C - empirically
              D - absolutely
-    ```
+    
 
-2.  The two types of proportional representation systems are majoritarian and:
+2.  The two types of **proportional representation systems** are majoritarian and:
 
-    ```         
+            
              A - open list
              B - parliamentary
              C - proportional representation
              D - dictatorship
-    ```
+    
 
 3.  What is the first step in the scientific method?
 
-    ```         
+            
              A - Analyze the data
              B - Make predictions
              C - Define a research question
              D - Reach a conclusion
-    ```
+    
 
 4.  The comparative method is one of four major methods of scientific or empirical political research. Which of the following is not one of the other three:
 
-    ```         
+         
              A - theoretical
              B - statistical
              C - Case study
              D - Experimental
-    ```
+
+
 
 5.  Which of the following can potentially be answered by science **alone**:
 
-    ```         
+        
              A - right and wrong
              B - good and bad
              C - cause and effect
              D - correct policy and incorrect policy
-    ```
+
+{{< pagebreak >}}
+
 
 6.  Distinguishing democratic from nondemocratic (dictatorial/autocratic) regimes is based primarily on what concept?
 
-    ```         
+       
              A - Elections
              B - Voting
              C - Legal opposition parties
              D - Contestation or contestability
-    ```
+
 
 7.  The core feature of contestability is the non-trivial (significant) chance that the governing party will:
 
-    ```         
+        
              A - Allow opposition in the election
              B - Allow elections
              C - Lose the election
              D - Appoint opposition members to the government
-    ```
 
-8.  Other features necessary for true contestability include irreversibility, repeatability, and:
 
-    ```         
+8.  Other features (besides the answer from question 8) necessary for true contestability include irreversibility, repeatability, and:
+
+        
              A - majority rule
              B - protection of minority rights
              C - international observers
              D - direct democracy
-    ```
 
-9.  In checking for real contestability, four rules help us. Which of these is not a rule we use to test for democracy?
 
-    ```         
+9.  In checking for real contestability, four rules help us. Which of these is *not* a rule we use to test for democracy?
+
+         
              A - There must be more than one party
-             B - The chief executive must be elected directly or indirectly
+             B - The chief executive must be elected
              C - Judges must be elected
              D - The legislature must be elected
              E - There must have been an alternation in power
-    ```
+
 
 10. The type of proportional system where the voters choose the party, but have no influence over specific candidates is:
 
-    ```         
+        
             A - Open list
             B - Democracy
             C - Closed list
             D - Primary
-    ```
+
 
 11. The form of democratic government where the executive power is located in the parliament (or other legislature) is:
 
-    ```         
+        
             A - Presidential
             B - Ministerial
             C - Parliamentary
             D - Majoritarian
-    ```
+            
+{{< pagebreak >}}
 
-12. Country A has a democratic constitution which calls for an elected President who calls elections and attends diplomatic functions, a Prime Minister elected by the Parliament, and a Cabinet selected by the PM from the Parliament. This system is:
 
-    ```         
+12. Country A has a democratic constitution which calls for an elected President who calls elections and attends diplomatic functions, a Prime Minister elected by the Parliament who heads the government, and a Cabinet selected by the PM from the Parliament. This system is:
+
+       
             A - Presidential
             B - Parliamentary
             C - Flawed democracy
             D - Proportional Representation
-    ```
+
 
 13. Country B has a democratic constitution with a President and a legislature called a Congress. This is all we know about this country. True or false: It must be a Presidential System, because it does not have a body called Parliament?
 
-    ```         
+        
             A - True
             B - False
-    ```
+
 
 14. The major distinction between Parliamentary and Presidential Systems is:
-
-    ```         
+        
            A - An official called a President
            B - A body called Parliament
            C - The location of executive power
            D - Judicial independence
-    ```
+
 
 15. A situation in which all parties would benefit from cooperation, but incentives exist which discourage individuals from cooperating is a:
 
-    ```         
+        
            A - flawed incentive problem
            B - public choice problem
            C - collective action problem
-           D - majority rules
-    ```
+           D - majority rule problem
+
 
 16. The Method of \_\_\_\_\_\_ starts with states that differ in the result (dependent variable/outcome) and have many similarities, and looks for the other major difference as the cause.
 
-    ```         
+        
            A - Comparative method
            B - Case study
            C - Method of Difference
            D - Method of Similarity
-    ```
 
-17. The entity which has commonly accepted legitimacy for the coercive use of physical force is:
 
-    ```         
+17. The entity which has *commonly accepted legitimacy* for the *coercive use of physical force* is:
+
+        
             A - the army
             B - the police
             C - the state
             D - the court system
-    ```
+
 
 18. True or false: All countries with multiple legal political parties are democracies?
 
-    ```         
+      
             A - True
             B - False
-    ```
+
+{{< pagebreak >}}
+
 
 19. A simple interpretation of Duverger's Law is that First Past the Post election rules result in this:
 
-    ```         
+        
             A - flawed democracy
             B - democratic backsliding
             C - two party systems
             D - proportional representation
-    ```
+
 
 20. The Prisoner's Dilemma is an example of a \_\_\_\_\_\_\_\_ action problem that may be solved by enforcement or repeated interaction.
 
-    ```         
+        
            A - coercive
            B - police
            C - collective
            D - dictatorship
-    ```
+
+21. When a government is accepted as "the only game in town," we refer to this as:
+
+        A - irreversability
+        B - legitimacy
+        C - prisoner's dilemma
+        D - dictatorship
+        
+22. Collective action problems can only be solved by enforcement?
+
+        A - True
+        B - False
+        
+        
+23. Which of the following are examples of collective action problems? (Choose all that apply)
+
+
+        A - Tragedy of the Commons
+        B - Prisoner's Dilemma
+        C - An individual deciding what to have for dinner
+        D - A group deciding on a catered lunch
+        
+24. The district magnitude for a legislature is 10. This is most likely a:
+
+        A - Majoritarian system
+        B - Proportional Representation system
+        C - Nondemocratic legislature
+        D - State legislature
+        
+        
+{{< pagebreak >}}
+
+        
+25. If we have two candidates, majority rule, and a single dimension of ideology, where is it likely that the candidates will end up on the ideological spectrum?
+
+        A - Both very near the middle
+        B - At opposite extremes
+        C - Each about 1/3 of the way from the middle
+        D - Randomly along the spectrum
+        
+26. An electoral system has district magnitude of 3, proportional allocation of seats, and the allocation of seats is controlled by the parties. This would be a:
+
+        A - Majoritarian system
+        B - Open list proportional representation
+        C - Closed list proportional representation
+        D - Ranked choice voting system
+        
+27. Arrow's Impossibility Theorem shows that no voting system can satisfy all of these criteria and produce rational outcomes. Which of the following is **not** one of the criteria?
+
+        A - Majority rule
+        B - Independence of irrelevant alternatives
+        C - Non-dictatorship
+        D - Proportional representation
+        
+
+        
+
+
 
 {{< pagebreak >}}
 
-## Section 2: Short answer (10 points each)
+## Section 2: Short answer (5 points each)
 
-**Pick 2 questions to answer. Answering a third does not get any additional credit.**
+**Pick 2 questions to answer. Answering a third does not get any additional credit. If you answer three, I will randomly choose which two to grade and you will have wasted time.**
 
-**Answers should be one to four sentences. They should usually fit in the space provided, but you may also use the back of the page.**
+**Answers should be three to five sentences. They should usually fit in the space provided, but you may also use the back of the page.**
 
-21. Briefly describe what happens if a piece of legislation proposed by the head of government fails to pass in a Parliamentary System and in a Presidential System.
+1. Briefly describe what potentially happens to the head of government (Prime Minister, President, etc.) if a piece of legislation proposed by the head of government fails to pass in a Parliamentary System and in a Presidential System. Is there a difference in the process or outcome?
 
-22. <p style="margin-bottom:10cm;">
+    
 
-    Briefly explain why failing to protect minority rights makes a country undemocratic being sure to mention the specific requirement of democratic elections that is undermined by not protecting minority rights.
+1. <p style="margin-bottom:10cm;">
+
+    Briefly explain why failing to protect minority rights makes a country undemocratic being sure to mention 1) which of the three core feature of democratic elections is undermined by not protecting minority rights and 2) which of the four rules for categorizing countries as a democracy involves rights of a political minority.
 
     </p>
 
-23. <p style="margin-bottom:10cm;">
+1. <p style="margin-bottom:10cm;">
 
-    Why can science alone not decide the answer policy questions?
+    Why can science alone not decide the answer to policy questions? What can science provide? What else is needed?
 
     </p>
 
@@ -213,21 +281,38 @@ editor: source
 
 </p>
 
-## Section 3: Bonus (10 points each)
+{{< pagebreak >}}
 
-**Use the back of the page and the attached blank page to do your work. Please make sure your final answer is obvious by underlining, etc.**
+## Section 3: Bonus (5 points - Choose one!)
 
-Bonus 1. Military Dispute Equilibrium:
+**Use the space provided and back of the page as needed.**
 
-Country A and Country B have a dispute over a resource rich area on their border. Country A currently controls it and Country B has demanded that Country A give it up. If war occurs, the country which attacks first will have a major advantage. The value of the resource and both the human and material costs of war have been computed in financial terms for both countries using standard methods. If war does not occur (both parties only defend), neither country suffers a gain or loss. If war occurs, Country A will suffer a loss of 200 billion if it atacks first and 500 billion if it defends. If war occurs, Country B will suffer a loss of 100 billion if it attacks first and 300 billion if it defends. What is the equilibrium outcome? (You can complete this using a Prisoner's Dilemma as a model.)
+**Choose only one question to answer. If you choose two, I will randomly pick one to grade.**
+
+Bonus 1. In the prisoner's dilemma game, the best outcome for both players is to cooperate. However, the dominant strategy reflected by the underlined payouts is to defect. In the setup to the game it is specified that the prisoner's cannot communicate. Does this matter? Why or why not? Under what circumstances might the prisoner's communicating matter? **Explain this in terms of the payouts for the game:**
+
+
+|                       | **Prisoner B Silent**   | **Prisoner B Talks**           |
+|------------------------|------------------------|------------------------|
+| **Prisoner A Silent** | 1 year, 1 year          | 3 years, <u>0 years</u>        |
+| **Prisoner A Talks**  | <u>0 years</u>, 3 years | <u>2 years</u>, <u>2 years</u> |
+
 
 <p style="margin-bottom:10cm;">
 
 </p>
 
+{{< pagebreak >}}
+
 Bonus 2. Allocation of seats in PR system
 
-You have the following election outcome in a Proportional Representation system. How will the seats be allocated using a Hare quota method? Using the d'Hondt divisor method?
+You have the following election outcome in a Proportional Representation system. How will the seats be allocated using a divisor method (demonstrated in class)?
+
+Formula:
+
+Divisor method: $quotient = \frac{TotalVotes}{seats + 1}$
+
+where *seats* is the number of seats already allocated in previous rounds.
 
 Total seats: 10
 
@@ -244,3 +329,5 @@ Purple Party: 10 million
 <p style="margin-bottom:10cm;">
 
 </p>
+
+

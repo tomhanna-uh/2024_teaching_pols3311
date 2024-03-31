@@ -1,0 +1,338 @@
+---
+title: "Midterm: POLS 3311, Spring 2024"
+format:
+  html:
+    self-contained: true
+    page-layout: article
+editor: source
+---
+Name: _________________________
+
+## Section 1: Multiple Choice (1 point each)
+Circle the correct answer for each question. For multiple answer questions, circle all that apply.
+
+1.  When something is proved by observation or experiment rather than pure logic or theory, it is said to be proved: **Answer: C**
+
+            
+             A - theoretically
+             B - thoroughly
+             C - empirically
+             D - absolutely
+    
+
+2.  The two types of **proportional representation systems** are majoritarian and: **Answer: C** *Note: This question was not clear because it should have read "The two types of representation are majoritarian and proportional representation." I did not penalize for incorrect answers.*
+
+            
+             A - open list
+             B - parliamentary
+             C - proportional representation
+             D - dictatorship
+    
+
+3.  What is the first step in the scientific method? **Amswer: C**
+
+            
+             A - Analyze the data
+             B - Make predictions
+             C - Define a research question
+             D - Reach a conclusion
+    
+
+4.  The comparative method is one of four major methods of scientific or empirical political research. Which of the following is not one of the other three: **Answer: A**
+
+         
+             A - theoretical
+             B - statistical
+             C - Case study
+             D - Experimental
+
+
+
+5.  Which of the following can potentially be answered by science **alone**: **Answer: C**
+
+        
+             A - right and wrong
+             B - good and bad
+             C - cause and effect
+             D - correct policy and incorrect policy
+
+{{< pagebreak >}}
+
+
+6.  Distinguishing democratic from nondemocratic (dictatorial/autocratic) regimes is based primarily on what concept? **Answer: D** *Note: All of the other things also exist in at least some nondemocracies as covered under the dictatorship topic.*
+
+       
+             A - Elections
+             B - Voting
+             C - Legal opposition parties
+             D - Contestation or contestability
+
+
+7.  The core feature of contestability is the non-trivial (significant) chance that the governing party will: **Answer: C** *Note: For elections to be meaningful, there must be a real chance that the ruling party will lose.*
+
+        
+             A - Allow opposition in the election
+             B - Allow elections
+             C - Lose the election
+             D - Appoint opposition members to the government
+
+
+8.  Other features (besides the answer from question 8) necessary for true contestability include irreversibility, repeatability, and: **Answer: B**
+
+        
+             A - majority rule
+             B - protection of minority rights
+             C - international observers
+             D - direct democracy
+
+
+9.  In checking for real contestability, four rules help us. Which of these is *not* a rule we use to test for democracy? **Answer: C**
+
+         
+             A - There must be more than one party
+             B - The chief executive must be elected
+             C - Judges must be elected
+             D - The legislature must be elected
+             E - There must have been an alternation in power
+
+
+10. The type of proportional system where the voters choose the party, but have no influence over specific candidates is: **Answer: C**
+
+        
+             A - Open list
+             B - Democracy
+             C - Closed list
+             D - Primary
+
+
+
+11. The form of democratic government where the executive power is located in the parliament (or other legislature) is: **Answer: C**         
+        
+            A - Presidential
+            B - Ministerial
+            C - Parliamentary
+            D - Majoritarian
+            
+{{< pagebreak >}}
+
+
+12. Country A has a democratic constitution which calls for an elected President who calls elections and attends diplomatic functions, a Prime Minister elected by the Parliament who heads the government, and a Cabinet selected by the PM from the Parliament. This system is: **Answer: B** 
+
+       
+            A - Presidential
+            B - Parliamentary
+            C - Flawed democracy
+            D - Proportional Representation
+
+
+13. Country B has a democratic constitution with a President and a legislature called a Congress. This is all we know about this country. True or false: It must be a Presidential System, because it does not have a body called Parliament? **Answer: B**
+
+        
+            A - True
+            B - False
+
+
+14. The major distinction between Parliamentary and Presidential Systems is: **Answer: C**
+        
+           A - An official called a President
+           B - A body called Parliament
+           C - The location of executive power
+           D - Judicial independence
+
+
+15. A situation in which all parties would benefit from cooperation, but incentives exist which discourage individuals from cooperating is a: **Answer: C**
+
+        
+           A - flawed incentive problem
+           B - public choice problem
+           C - collective action problem
+           D - majority rule problem
+
+
+16. The Method of \_\_\_\_\_\_ starts with states that differ in the result (dependent variable/outcome) and have many similarities, and looks for the other major difference as the cause. **Answer: C**
+
+        
+           A - Comparative method
+           B - Case study
+           C - Method of Difference
+           D - Method of Similarity
+
+
+17. The entity which has *commonly accepted legitimacy* for the *coercive use of physical force* is: **Answer: C**
+
+        
+            A - the army
+            B - the police
+            C - the state
+            D - the court system
+
+
+18. True or false: All countries with multiple legal political parties are democracies? **Answer: B**
+
+      
+            A - True
+            B - False
+
+{{< pagebreak >}}
+
+
+19. A simple interpretation of Duverger's Law is that First Past the Post election rules result in this: **Answer: C**
+
+        
+            A - flawed democracy
+            B - democratic backsliding
+            C - two party systems
+            D - proportional representation
+
+
+20. The Prisoner's Dilemma is an example of a \_\_\_\_\_\_\_\_ action problem that may be solved by enforcement or repeated interaction. **Answer: C**
+
+        
+           A - coercive
+           B - police
+           C - collective
+           D - dictatorship
+
+21. When a government is accepted as "the only game in town," we refer to this as: **Answer: B**
+
+        A - irreversability
+        B - legitimacy
+        C - prisoner's dilemma
+        D - dictatorship
+        
+22. Collective action problems can only be solved by enforcement? **Answer: B**
+
+        A - True
+        B - False
+        
+        
+23. Which of the following are examples of collective action problems? (Choose all that apply) **Answer: A, B, D** *Note: for this question, you got full credit if you answered at least two correctly without picking the incorrect answer. 1/2 point was possible.*
+
+
+        A - Tragedy of the Commons
+        B - Prisoner's Dilemma
+        C - An individual deciding what to have for dinner
+        D - A group deciding on a catered lunch
+        
+24. The district magnitude for a legislature is 10. This is most likely a: **Answer: B**
+
+        A - Majoritarian system
+        B - Proportional Representation system
+        C - Nondemocratic legislature
+        D - State legislature
+        
+        
+{{< pagebreak >}}
+
+        
+25. If we have two candidates, majority rule, and a single dimension of ideology, where is it likely that the candidates will end up on the ideological spectrum? **Answer: A**
+
+        A - Both very near the middle
+        B - At opposite extremes
+        C - Each about 1/3 of the way from the middle
+        D - Randomly along the spectrum
+        
+26. An electoral system has district magnitude of 3, proportional allocation of seats, and the allocation of seats is controlled by the parties. This would be a: **Answer: C**
+
+        A - Majoritarian system
+        B - Open list proportional representation
+        C - Closed list proportional representation
+        D - Ranked choice voting system
+        
+27. Arrow's Impossibility Theorem shows that no voting system can satisfy all of these criteria and produce rational outcomes. Which of the following is **not** one of the criteria? **Answer: D**
+
+        A - Majority rule
+        B - Independence of irrelevant alternatives
+        C - Non-dictatorship
+        D - Proportional representation
+        
+
+        
+
+
+
+{{< pagebreak >}}
+
+## Section 2: Short answer (5 points each)
+
+**Pick 2 questions to answer. Answering a third does not get any additional credit. If you answer three, I will randomly choose which two to grade and you will have wasted time.**
+
+**Answers should be three to five sentences. They should usually fit in the space provided, but you may also use the back of the page.**
+
+1. Briefly describe what potentially happens to the head of government (Prime Minister, President, etc.) if a piece of legislation proposed by the head of government fails to pass in a Parliamentary System and in a Presidential System. Is there a difference in the process or outcome?
+
+    </p> Answer: The key difference is that in a parliamentary system, the head of government is answerable to the parliament politically. In a Presidential system, the head of government is not answerable to the legislature. If a piece of legislation fails to pass in a presidential system, the head of government can continue to serve out their term. In a parliamentary system, the failure of a piece of legislation proposed by the government (the Prime Minister and Cabinet ministers) triggers a *vote of no confidence.* In this vote, the parliament votes on whether they have confidence in the government. If the government loses this vote, the government must resign. In almost all cases this means that new parliamentary elections are called and, after the elections, a new government is formed by the majority of the new parliament.     </p>
+
+    
+
+1. Briefly explain why failing to protect minority rights makes a country undemocratic being sure to mention 1) which of the three core feature of democratic elections is undermined by not protecting minority rights and 2) which of the four rules for categorizing countries as a democracy involves rights of a political minority.
+
+<p>Answer: One of the three core features of democracy is *contestation*, which at its core is the real possibility that a bad government may lose office through elections. If a country fails to protect minority rights, it undermines contestation because it makes it more difficult for minority groups to participate in the political process. Participation takes time and resources. If minority groups political rights are not protected, they may be afraid to participate or they may even be physically prevented from participating. If minority groups economic rights (employment, property, etc.) are not protected, they may not have the resources to mount an effective challenge to the ruling party. This is important because one of the four rules for categorizing countries as a democracy is that elections are *repeatable*. That is, if a majority party wins one election, then there are no more truly *contestable* elections, the country has ceased to be a democracy if it ever was. *Note: A few people focused on other rules from the four rules, defended their position well, and got full credit. To get credit you must have mentioned the features and rules from the class material.*</p>
+
+1. Why can science alone not decide the answer to policy questions? What can science provide? What else is needed?
+
+<p>Science alone can not answer policy questions because it is focused on what causes certain outcomes and can not tell us which outcomes are good or bad. In making policy, the policy maker must make a moral/ethical/normative decision about what the government wants to happen. This may involve trade-offs between different groups in society, it may involve public opinion, and it may involve higher ethical/moral values. Science can provide information about the likely outcomes of different policies. This information can be used to help the policy maker make a decision. However, science can not tell the policy maker what the right decision is. The policy maker must make a decision based on the information provided by science and the things that the government, voters, and society value. </p>
+<p>Notes: 1. Science absolutely can help with answers about anything data based. If there is a lack of data, that does not mean science is not valuable; it means that there is not sufficient data to give a scientific answer. The solution is to get the data - to do the science. 2. A couple of people wrote about exxperience, gut feelings, or similar things. Good use of experience is not science *per se*, but it is still fact based. If experience conflicts with science, it is wise to remember that "anecdotes are not evidence."</p>
+
+{{< pagebreak >}}
+
+## Section 3: Bonus (5 points - Choose one!)
+
+**Use the space provided and back of the page as needed.**
+
+**Choose only one question to answer. If you choose two, I will randomly pick one to grade.**
+
+Bonus 1. In the prisoner's dilemma game, the best outcome for both players is to cooperate. However, the dominant strategy reflected by the underlined payouts is to defect. In the setup to the game it is specified that the prisoner's cannot communicate. Does this matter? Why or why not? Under what circumstances might the prisoner's communicating matter? **Explain this in terms of the payouts for the game:**
+
+
+|                       | **Prisoner B Silent**   | **Prisoner B Talks**           |
+|------------------------|------------------------|------------------------|
+| **Prisoner A Silent** | 1 year, 1 year          | 3 years, <u>0 years</u>        |
+| **Prisoner A Talks**  | <u>0 years</u>, 3 years | <u>2 years</u>, <u>2 years</u> |
+
+
+<p style="margin-bottom:10cm;">If the prisoners communicate with each other and even if they promise to cooperate, neither prisoner has any way of knowing if the other is being truthful. If nothing happens except for talking with promises to cooperate, so-called "cheap talk," when the prisoners return to the negotiation with the police, the payoffs (the potential prison sentences) have not changed. The best course of action for each prisoner in either scenario will still be to talk. This still leads to the equilibrium where both prisoners talk and both get 2 years.</p>
+
+<p>However, if the prisoners could communicate and make binding agreements, then they could both agree to be silent and get the best outcome of 1 year each. Some specific ways this could happen include: resort to an outside enforcer like a mafia boss or organization, a reputation system where the prisoners have shared associates who will refuse to do business with a "snitch," or one prisoner having something to hold over the head of the other prisoner such as a *credible* threat to family or a credible promise of payment. Another possibility is if the two are long time associates with *credible* future plans to continue their association that make the payoff for cooperation worth more than the 1-year sentence. In the first two cases, an outside mafia style enforcer or a reputation system that discourages snitches, the prisoners communicating may not even be necessary. 
+</p>
+
+{{< pagebreak >}}
+
+Bonus 2. Allocation of seats in PR system
+
+You have the following election outcome in a Proportional Representation system. How will the seats be allocated using a divisor method (demonstrated in class)? **Answer: I can provide a handwritten answer to anyone who is interested.**
+
+Formula:
+
+Divisor method: $quotient = \frac{TotalVotes}{seats + 1}$
+
+where *seats* is the number of seats already allocated in previous rounds.
+
+Total seats: 10
+
+Total votes: 125 million
+
+Green Party: 25 million
+
+Red Party: 35 million
+
+Orange Party: 55 million
+
+Purple Party: 10 million
+
+<p style="margin-bottom:10cm;">
+
+</p>
+
+
+## Authorship, License, Credits
+
+- Do not submit to Chegg, Coursehero, or similar websites
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

@@ -1,0 +1,280 @@
+---
+title: |
+    | Lecture 12 - Modernization Theory - Democracy and Economic Development
+    | Comparative Politics - POLS 3311
+date: March 25, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Agenda
+
+- Additional Midterm review and questions
+- Economic and Political Development
+
+        - The relationship between democracy and economic development
+        - Propsed explanations
+        - The Modernization Theory approach
+
+# Additional Midterm Review
+
+## Arrow's Impossibility Theorem
+
+- Don't get bogged down in the assumptions and jargon
+- Simply put, under reasonable assumptions about voting and preferences, there is no voting system that can produce an efficient outcome without *dictatorship*
+- *dictatorship* can just mean that some votes count more than others
+- The other option is to accept an *inefficient outcome* where a different result  could make at least one person better off without making anyone worse off.^[Note: This is an efficiency standard, but may also be a fairness standard.]
+
+
+# Economic and Political Development
+
+## Why are economic development and political development correlated?
+
+Richer[^1] countries are more likely to be democratic.
+
+[^1]: Defining rich as higher total national income per person (GDP per capita) or as higher median income
+
+Democratic countries are more likely to be rich.
+
+Why?
+
+## Why are economic development and political development correlated?
+
+General Possibilities:
+
+Democracy leads to economic development.
+
+Economic development leads to democratization.
+
+Something else leads to both.
+
+## Why might democracy cause economic growth?
+
+1.  Security for investment
+
+## What is investment?
+
+**Investment does not have to involve business or money. Investment is giving up current consumption in order to gain something greater in the future.**
+
+What are some examples of investment that do not involve the business and financial investments we usually think of?
+
+*Writing: Give an example of a non-business/non-financial investment. Explain how it fits the definition. That is, what is given up now and what is expected to be gained in the future?*
+
+
+## Protecting investment
+
+Thought questions: Can a government that does not secure financial/business investment be expected to secure other types of investment? Is the effect of security for the very small investor as important as security for the large investor in economic development?
+
+
+
+## Why might democracy cause economic growth?
+
+Security for investment
+
+       
+- Constraining the executive creates security against the state
+
+        - Constraning: Limiting the power
+        
+## Why might democracy cause economic growth?
+        
+Security for investment
+
+       
+- Constraining the executive creates security against the state
+
+        - Constraning: Limiting the power
+        - The executive: Originally the king or dictator!
+        
+## Why might democracy cause economic growth?
+        
+Security for investment
+
+       
+- Constraining the executive creates security against the state
+
+        - Constraning: Limiting the power
+        - The executive: Originally the king or dictator!
+        - Security: Protection from arbitrary seizure of property or income
+        
+            
+        
+               
+
+
+## Why might democracy cause economic growth?
+
+Security for investment
+
+       
+- Constraining the executive creates security against the state
+-  Political stability - democracy reduces civil strife
+
+
+
+## Why might democracy cause economic growth?
+
+1.  Security for investment
+
+2.  Selectorate theory
+
+
+## Selectorate Theory
+
+1.  Democratic leaders satisfy W (winning coalition) with public goods while nondemocratic leaders give inefficient private good payoffs to W
+
+## Selectorate Theory
+
+1.  Democratic leaders satisfy W (winning coalition) with public goods
+2.  Improvements in public goods reduce private costs of production
+
+        - "You didn't build that." - The private producer DID produce the good, but the public goods provided by the government helped make it possible at much lower cost.
+
+
+## Selectorate Theory
+
+1.  Democratic leaders satisfy W (winning coalition) with public goods
+2.  Improvements in public goods reduce private costs of production 
+3.  Improves investment security - investment security as public good
+
+
+## Selectorate Theory
+
+1.  Democratic leaders satisfy W (winning coalition) with public goods
+2.  Improvements in public goods reduce private costs of production 
+3.  Improves investment security - security as public good
+4.  Combination - shifting from inefficient redistribution of private goods from S to W, to a broader investment in public goods including security
+
+
+
+
+## Stationary Bandit incentives
+
+"democratic political leaders are just as self-interested as the stationary bandit and will use any expedient to obtain majority support"[^3]
+
+[^3]: (Olson 1993, p.570)
+
+## Stationary Bandit incentives
+
+"democratic political leaders are just as self-interested as the stationary bandit and will use any expedient to obtain majority support"[^3]
+
+[^3]: (Olson 1993, p.570)
+
+Making the electorate better off improves re-election chances[^4]
+
+[^4]: ibid.
+
+## Stationary Bandit incentives
+
+1.  Leaders have incentive to invest in public goods to ensure future growth and re-election
+
+## Stationary Bandit incentives
+
+1.  Leaders have incentive to invest in public goods to ensure future growth and re-election
+2.  Protection creates incentives for citizens to invest more which takes us back to...
+
+
+
+## Why might democracy cause economic growth?
+
+1.  Security for investment
+
+2.  Selectorate theory
+
+3.  Stationary bandit incentives
+
+
+## Why might economic growth lead to democratization?
+
+Modernization theory: economic security allows people to consider nonmaterial desires
+
+## Why might economic growth lead to democratization?
+
+Modernization theory: economic security allows people to consider nonmaterial desires
+
+-   Similar to Maslow's hierarchy of needs from psychology
+
+
+## Hierarchy of Needs: Personal
+
+![Maslow's Hierarchy of Needs: https://www.simplypsychology.org/maslow.html](maslow-needs3.webp){width=50%}
+
+
+
+
+
+
+## Why might economic growth lead to democratization?
+
+Modernization theory: economic security allows people to consider nonmaterial desires
+
+- Similar to Maslow's hierarchy of needs from psychology
+- Basic needs - least cooperation required: basic food, shelter, protection from wild animals
+- Security needs - more cooperation required: protection from other people provided by the state
+- Investment needs - security from the state
+- Higher needs - Freedom, self-determination, self-government, participation
+
+## What is the process of modernization?
+
+- Rostow (1960)
+
+ - The traditional stage 
+ - The preconditions for takeoff
+ - The takeoff
+ - The drive to maturity
+ - The age of high-mass consumption
+
+## What is the process of modernization?
+
+1. Urbanization 
+
+        - people moving to urban centers for work
+        - accelerates with industrialization
+        - even before industrialization, cities developed self-government systems with proto-democratic elements: guilds, merchant associations, town councils
+
+## What is the process of modernization?
+
+
+1. Urbanization
+2. Widespread education and literacy 
+
+        - Education and literacy are necessary for economic growth
+        - Education and literacy are necessary for industrialization
+        - Education and literacy increase people thinking about their relationship to government
+
+
+## What is the process of modernization?
+
+
+1. Urbanization
+2. Widespread education and literacy 
+3. Industrialization and advancing technological progress
+4. Rationalization and decline of traditions
+
+        - Relative anonymity of urban life
+        - Decline of traditional social structures
+        - Association between rationalism and technological progress
+
+## What is the process of modernization?
+
+
+1. Urbanization
+2. Widespread education and literacy 
+3. Industrialization and advancing technological progress
+4. Rationalization and decline of traditions
+5. Individualism 
+6. Growth of capitalism
+7. The bureaucratic state
+8. Rise of the service sector
+
+
+
