@@ -1,0 +1,226 @@
+---
+title: |
+    | Lecture 14 - Conditional Modernization
+    | Comparative Politics - POLS 3311
+date: April 3, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Agenda and reminders
+
+Today 
+
+        - Discussion of Treisman article (student led)
+        - Highlights of Treisman article (instructor)
+
+Next week (April 8 and 10): National, Regional, and Cultural differences in Political Development
+
+        - Background reading for Monday: Culture, Democracy and Development: The Impact of Formal and Informal Institutions on Development, By Deepak Lal, https://www.imf.org/external/pubs/ft/seminar/1999/reforms/lal.htm
+        
+        - Wednesday article presentation and REQUIRED reading: "Explaining Institutional Success: The Case of Italian Regional Government," Putnam et al. https://www.jstor.org/stable/1956011
+        
+## Treisman article discussion
+ 
+From a policy or political theory(philosophy) perspective, why would we care about the relationship between economic development and democracy? 
+
+Why would we care which happens first?
+
+
+
+## Treisman Conditional Modernization
+
+- Observation of strong correlation since mid-20th century between economic development and democracy
+- Probabilistic, not deterministic
+- Economic development precedes democratization
+- Conditional on triggers
+
+        
+## Economic development and democracy: Correlation
+
+Treisman defines wealthy countries as those with incomes above $25,000 per capita (2015 dollars)
+
+"In the history of the world," there have been three categories that include all these countries?
+
+What are they?
+
+## Economic development and democracy: Correlation
+
+Treisman defines wealthy countries as those with incomes above $25,000 per capita (2011 dollars)
+
+> "In the history of the world there have been three—and only three—sets of countries with income above about $25,000 per capita: (a) a growing contingent of developed democracies,(b) a handful of repressive dictatorships with massive oil revenues,and (c) the affluent and moderately authoritarian Singapore (Figure 1)."
+
+
+
+## Economic development and democracy: Correlation
+
+Wealth countries in the history of the world:
+
+- developed democracies
+- wealthy oil dictatorships
+- Singapore
+
+
+## Economic development and democracy: Correlation
+
+![Figure 1: from Treisman (2020)](figure_1.png)
+
+
+## Economic development and democracy: Questions
+
+- Will those oil dictatorships become democracies since they are so wealthy?
+
+- What about Singapore?
+
+- **Is democracy the result of economic development or is economic development the result of democracy?**
+
+
+
+## Economic development and democracy: Questions
+
+- Will those oil dictatorships become democracies since they are so wealthy? 
+
+        - There is a substantial literature on the "resource curse" or the "petroleum curse" that suggests they will not. 
+        - Access to easily controlled mineral wealth allows the dictators to buy off opposition and maintain power more cheaply than sharing this natural resource broadly.
+        - Mineral extraction, especially with foreign partners, does not promote a diversified economy that may be more conducive to democracy.
+        
+        
+## Economic development and democracy: Questions
+
+What about Singapore?
+
+        - There have only been two leadership turnovers since Singapore independence. Both were very carefully managed. (This is important given Treisman's argument.) 
+        - It is an electoral democracy or a competitive authoritarian regime. 
+        - There are aspects of self-government in Singapore, for example Town Councils with elected members that manage the government owned real estate which includes public housing for the vast majority of the population.
+        - It operates under British common law, which was one of the precursors to both economic development and democratization in the UK, Canada, Australia, and the US. British common law is also  one example of the type of countermajoritarian institution that makes liberal democracies function well compared to the majoritarian democracies that Aristotle and Madison (among others) criticized. 
+        - The population overall is highly satisfied with a strong economy, low crime, and a high standard of living.
+        - Travel, trade, and immigration for Singapore citizens are relatively unrestricted.
+        
+        
+## Economic development and democracy: The main question
+
+**Is democracy the result of economic development or is economic development the result of democracy?**
+
+        
+## Economic development and democracy: The main question
+
+![Figure 1: from Treisman (2020)](figure_1.png)
+
+
+
+
+## Economy first
+
+**Is democracy the result of economic development or is economic development the result of democracy?**
+
+- Treisman argues that economic development generally precedes democratization
+
+
+## Probabilistic relationship 
+
+However, the relationship is not **deterministic** it is probabilistic
+
+- Despite that really strong finding about countries above $25,000 per capita, Treisman shows that the effect is not deterministic.^[believing that everything that happens must happen as it does and could not have happened any other way, or relating to this belief: It would be overly deterministic to say that if the party did change its leader, the new one would continue to make the same mistakes. - Cambridge English Dictionary - https://dictionary.cambridge.org/dictionary/english/deterministic]
+
+
+## Probabilistic relationship 
+
+However, the relationship is not **deterministic** it is probabilistic
+
+- Despite that really strong finding about countries above $25,000 per capita, Treisman shows that the effect is not deterministic.
+- The relationship is **probabilistic**, with an **increasing probability of democratization** as **income rises** toward that $25,000 mark.
+
+
+## Probabilistic relationship 
+
+However, the relationship is not **deterministic** it is probabilistic
+
+- Despite that really strong finding about countries above $25,000 per capita, Treisman shows that the effect is not deterministic.
+- The relationship is **probabilistic**, with an **increasing probability of democratization** as **income rises** toward that $25,000 mark.
+- There is also a **decreasing probability** that a moderately wealthy country will **revert to autocracy** as income rises. 
+
+
+## Probabilistic Relationship
+
+![Figure 3: from Treisman (2020)](figure_3.png)
+
+
+
+
+## Probabilistic relationship 
+
+However, the relationship is not **deterministic** it is probabilistic
+
+- Despite that really strong finding about countries above $25,000 per capita, Treisman shows that the effect is not deterministic.
+
+## Probabilistic relationship 
+
+- The relationship is **probabilistic**, with an **increasing probability of democratization** as **income rises** toward that $25,000 mark.
+- There is also a **decreasing probability** that a moderately wealthy country will **revert to autocracy** as income rises. 
+- Both these probabilities are conditional on **triggers**, major events that can cause a country to change regime type.
+
+## Possible triggers
+
+- Ryan Kennedy (2010) - economic crises 
+- Michael K. Miller (2012) - violent leader removal
+- Knutsen et al (2019) - elections
+
+
+## Possible triggers
+
+![Figure 2: from Treisman (2020)](figure_2.png)
+
+## Triggering event
+
+The relationship is also **conditional** on triggering events in wealthy nondemocratic societies 
+
+- Treisman identifies the triggering event as a change in the leader of the country.
+- Economic crises (Kennedy) can be triggers, but only if leadership change results from the crisis.
+- Violent leader removal (Miller 2012) is a leadership change.
+- Elections (Knutsen et al 2019) can be triggers, but only if the election results in a change in leadership.
+- Treisman finds that leadership turnover through peaceful transitions and natural death are also possible triggers. 
+
+- The common factor is a change in leadership.
+
+## Treisman's Conditional Modernization Theory
+
+- Economic development generally precedes democratization
+- As wealth increases, the probability of democratization increases and the probability of autocratization decreases
+- Leadership turnover is the triggering event for regime change, whether the turnover is peaceful, violent, or the result of natural death of the leader
+- The relationship is probabilistic, not deterministic
+
+
+
+
+        
+## Reminders for next week 
+
+Background reading for Monday: Culture, Democracy and Development: The Impact of Formal and Informal Institutions on Development, By Deepak Lal, https://www.imf.org/external/pubs/ft/seminar/1999/reforms/lal.htm
+        
+Wednesday article presentation and **REQUIRED** reading: "Explaining Institutional Success: The Case of Italian Regional Government," Putnam et al. https://www.jstor.org/stable/1956011
+        
+
+
+## Authorship, License, Credits
+
+Graphics and other materials drawn from: 
+
+Treisman, Daniel, Economic Development and Democracy: Predispositions and Triggers (May 2020). Annual Review of Political Science, Vol. 23, pp. 241-257, 2020, Available at SSRN: https://ssrn.com/abstract=3602493 or http://dx.doi.org/10.1146/annurev-polisci-050718-043546
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
