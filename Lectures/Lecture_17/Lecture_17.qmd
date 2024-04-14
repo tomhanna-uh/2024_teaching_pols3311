@@ -26,14 +26,50 @@ Wednesday
 
         - Reading: Zhukov, Yuri M. "Repression Works (Just Not in Moderation)." Comparative Political Studies. Volume 56, Issue 11. https://doi.org/10.1177/00104140231152778 - Note: You may need to be logged into the UH library system with Cougarnet or the library proxy 
         - Complete topic
+        
+        
+## Democratic backslding
+
+Why worry about democratic backsliding?^[Madisonians might call this Republican backsliding, given the modern definition of democracy as a constitutionally limited, representative government with protection for political minorities, property rights, and the rule of law.]
+
+
+## Democratic backslding
+
+Why worry about democratic backsliding?
+
+![Hyde (2020) notes that while the number of elections has leveled off, the number of elections with government harassment of the opposition or media bias in favor of the incumbent has increased. ](hyde.png)
+
+
+## Democratic backslding
+
+Why worry about democratic backsliding?
+
+2011 World Values Survey showed Millenials in the US and Europe were less likely to say that democracy is essential and more likely to embrace other values such as "strong leaders." (Norris, 2017)
+
+
+
+## Democratic backslding
+
+Why worry about democratic backsliding?
+
+
+![Erik Voeten (2016) argues that this is largely a matter of cynicism about US institutions and that it is actually driven by older people.](voeten.png)
+
+        
+## Democratic backsliding
+
+Norris (2017) claims two related trends are the greatest threat to democracies. First are "sporadic and random terrorist attacks on domestic soil, which damage feelings of security," and second is "the rise of **populist-authoritarian forces**, which feed upon these fears."
+
 
 ## Basic terminology
 
 - Democratic backsliding
 - Autocratic Regression or Autocratic Deepening
-- Regime Transformation
-- Autocracy promotion
-- Repression
+- Regime Transition
+
+## Basic terminology
+
+"...four broad types of regime transformation: liberalization in autocracies^[Democratization], democratic deepening in democracies^[Democratic consolidation], and autocratization in both democracies^[Democratic backsliding] and autocracies^[autocratic regression]." (Maerz et al., 2023)
 
 
 ## Basic terminology
@@ -180,11 +216,55 @@ Autocratic Regression or Autocratic Deepening
 
 ## Basic terminology
 
-- Democratic backsliding
-- Autocratic Regression or Autocratic Deepening
-- Regime Transformation
+Regime Transition
 
-        - A change in regime type               
+- A change in **regime type**  
+
+
+## Basic terminology
+
+Regime Transition
+
+- A change in **regime type**  
+
+        - democratic to nondemocratic
+        - nondemocratic to democratic
+        - changes in type of nondemocratic regime
+
+
+## Basic terminology
+
+Regime Transition
+
+- A change in **regime type**
+- can be either direction: **liberalizing** or **autocratizing**
+- usually based on cutoff points in the indicators of regime type
+
+
+## Basic terminology
+
+Regime Transition
+
+- A change in **regime type**
+- can be either direction: **liberalizing** or **autocratizing**
+- usually based on cutoff points in the indicators of regime type
+- these cutoffs can be a bit arbitrary
+
+## Basic terminology
+
+Regime Transition
+
+- A change in **regime type**
+- can be either direction: **liberalizing** or **autocratizing**
+- usually based on cutoff points in the indicators of regime type
+- these cutoffs can be a bit arbitrary
+- Great source is the *Varieties of Democracy Project* **Episodes of Regime Transformation (ERT) Dataset**
+
+
+
+
+
+
 
        
 ## Basic terminology
@@ -253,10 +333,19 @@ Hyde, Susan D. 2020. “Democracy’s backsliding in the international environme
 
 ## Democratic Backsliding
 
+
+
+## Citations
+
+
 Hyde, Susan D. 2020. “Democracy’s backsliding in the international environment.” Science 369(6508): 1192–1196.
 
+Maerz, S. F., Edgell, A. B., Wilson, M. C., Hellmeier, S., & Lindberg, S. I. (2023). Episodes of regime transformation. Journal of Peace Research, 0(0). https://doi.org/10.1177/00223433231168192
 
 
+Norris, Pippa. 2017. SSRN Electronic Journal “Is Western Democracy Backsliding? Diagnosing the Risks.” https://papers.ssrn.com/abstract=2933655 (Accessed January 17, 2022).
+
+Veoten, Eric. Washington Post, The Monkey Cage. "It’s actually older people who have become more cynical about U.S. democracy." December 14, 2016.https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/14/its-actually-older-people-who-have-become-more-cynical-about-u-s-democracy/
 
 ## Authorship, License, Credits
 
