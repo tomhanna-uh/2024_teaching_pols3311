@@ -1,0 +1,217 @@
+---
+title: |
+    | Lecture 16 - The case of Italian institutions
+    | Comparative Politics - POLS 3311
+date: April 8, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Agenda
+
+- Today
+
+        - Background and historical overview to Putnam article
+        - Putnam article
+        - Related articles/concepts and discussion
+        
+- Next week:  Democratic Backsliding, Repression, Autocracy Promotion
+
+## Reading Reminders Next week
+        
+Background Reading for next week: 
+
+[Understanding and Responding to Global Democratic Backsliding](https://carnegieendowment.org/2022/10/20/understanding-and-responding-to-global-democratic-backsliding-pub-88173)
+
+[NEW REPORT: More Governments Engaged in More Transnational Repression during 2022](https://freedomhouse.org/article/new-report-more-governments-engaged-more-transnational-repression-during-2022)
+
+- Wednesday Required Article: 
+
+[Zhukov, Yuri M. (2023), "Repression Works (Just Not in Moderation)", Comparative Political Studies, 56(11), 1663-1694.](https://libraries.uh.edu/find)
+
+
+## Putnam and the article topic
+
+- Robert Putnam, the lead author, is a comparative political scientist at Harvard University
+- The article is a classic in the field of comparative politics
+- Putnam and his co-authors published a book with an additional decade of analysis confirming the early findings in 1994: *Making Democracy Work: Civic Traditions in Modern Italy*
+
+## Putnam and the article topic
+
+- Putnam applied the concept of social capital to the study of political institutions
+- This led to an important work on American civil society: *Bowling Alone: The Collapse and Revival of American Community*
+
+
+
+## Making Democracy Work
+
+![Making Democracy Work](making_democracy_cover.jpg)
+
+[Making Democracy Work: Civic Traditions in Modern Italy Robert D. Putnam, Robert Leonardi, and Raffaella Y. Nanetti](https://press.princeton.edu/books/paperback/9780691037387/making-democracy-work)
+
+(The book is available used for about 5 dollars, on Kindle for a higher price,  and *may* available through the library or Interlibrary Loan)
+
+
+## Historical context
+
+- Italy was not unified until 1861
+
+## Historical context
+
+- Italy was not unified until 1861
+- Prior to unification there were a variety of governments
+
+
+
+## Historical context
+
+- Italy was not unified until 1861
+- Prior to unification there were a variety of governments
+- The North had a system of self-governing mostly republican city-states 
+
+        - Florence, Milan, Venice, Genoa, Verona, Pisa
+        - Many maintained the republican institutions of Rome **
+        - These were the center of the Italian Renaissance
+        - They were trading and banking centers
+
+
+
+## Historical context
+
+- Italy was not unified until 1861
+- Prior to unification there were a variety of governments
+- The North had a system of self-governing mostly republican city-states 
+- The South was ruled by a variety of monarchies
+
+         - importantly many were foreign monarchs
+         - Byzantine Empire until the 1070s
+         - Competing with the Germanic Lombards
+         - Norman conquest in the 11th century and the Norman Kingdom of Sicily **
+         - The French in the 1200s
+         - The Spanish (Aragon) in the 1400s
+
+
+## Questions
+
+- In previous lecture, I mentioned that one explanation of the difference between Protestant and Catholic countries development was the comparison of Germanic and Roman institutions. In Italy, we see the reverse pattern. What might explain this? 
+
+
+## Questions
+
+- In previous lecture, I mentioned that one explanation of the difference between Protestant and Catholic countries development was the comparison of Germanic and Roman institutions. In Italy, we see the reverse pattern. What might explain this? 
+
+- One possible answer is that the Normans were a foreign power, but they conquered England at almost the same time. Why did England develop differently?
+
+## Questions
+
+- In previous lecture, I mentioned that one explanation of the difference between Protestant and Catholic countries development was the comparison of Germanic and Roman institutions. In Italy, we see the reverse pattern. What might explain this? 
+
+        -  One possible answer is that the Normans were a foreign power colonial power while the northern republicans (and small monarchies) had a history of self-government.
+        - This is consistent with Putnam, et al. and the idea of developing civil society.  
+        
+        
+## Questions
+
+- In previous lecture, I mentioned that one explanation of the difference between Protestant and Catholic countries development was the comparison of Germanic and Roman institutions. In Italy, we see the reverse pattern. What might explain this? 
+
+        -  One possible answer is that the Normans were a foreign power colonial power while the northern republicans (and small monarchies) had a history of self-government.       
+        
+        - Along with maintaining Roman republican institutions, they also maintained a degree of urbanization and trade that was not present in the North of Europe or the South of Italy.
+        - It's actually questionable to what extent Roman Republican institutions survived in the southern European monarchies.
+        - We assume they did, because the monarchies adopted the late Roman legal code but they did not adopt the system of Assembly and Senate from the early to mid Republic.
+        
+## Questions 
+
+- One possible answer is that the Normans were a foreign power while the North had self-government, but the Normans conquered England at almost the same time. Why did England develop differently?
+
+
+## Related concepts and articles
+
+- One possible answer is that they did not bring the right institutions with them
+-In the context of (later) colonization settlement versus extraction caused a difference in institutions ^[The Colonial Origins of Comparative Development: An Empirical Investigation Author(s): Daron Acemoglu, Simon Johnson, James A. Robinson Source: The American Economic Review, Vol. 91, No. 5 (Dec., 2001), pp. 1369-1401 Published by: American Economic Association Stable URL: http://www.jstor.org/stable/2677930]
+- This is not the same case, but may have parallels
+
+
+
+## Related concepts and articles
+
+- One possible answer is that they did not bring the right institutions with them
+
+        - In extractive colonies, colonizers did not bring institutions of self government
+        - In settler colonies, they did
+
+
+## Related concepts and articles
+
+- One possible answer is that they did not bring the right institutions with them
+
+        - In extractive colonies, colonizers did not bring institutions of self government
+        - In settler colonies, they did
+
+
+- In England: 
+
+        - The first Duke of Normany was the Viking Rollo, a little over a century before the Norman Conquest of England.
+        - The Norman kings were also nobles in France and remained so with a combination of Norse and Germanic institutions there as well. 
+        - In England, they retained some Anglo-Saxon nobles and their institutions,
+        - Their own Norse institutions were similar.
+        
+## Related concepts and articles
+
+- One possible answer is that they did not bring the right institutions with them
+
+        - In extractive colonies, colonizers did not bring institutions of self government
+        - In settler colonies, they did
+
+
+- In England: 
+
+        - Norman institutions were similar to those in England.
+        - In England, they retained some Anglo-Saxon nobles and their institutions,
+        - Their own Norse institutions were similar.
+        
+- In southern Italy:
+
+        - The Norman kings settled and took on an Italian focus
+        - The foreign Norman institutions would have weakened the monarchy compared to the native institutions left over from Byzantine Imperial rule
+        - There was not much attempt to bring in Norman institutions compared to England
+
+
+
+
+
+## Reading Reminders Next week
+        
+Background Reading for next week: 
+
+[Understanding and Responding to Global Democratic Backsliding](https://carnegieendowment.org/2022/10/20/understanding-and-responding-to-global-democratic-backsliding-pub-88173)
+
+[NEW REPORT: More Governments Engaged in More Transnational Repression during 2022](https://freedomhouse.org/article/new-report-more-governments-engaged-more-transnational-repression-during-2022)
+
+- Wednesday Required Article: 
+
+[Zhukov, Yuri M. (2023), "Repression Works (Just Not in Moderation)", Comparative Political Studies, 56(11), 1663-1694.](https://libraries.uh.edu/find)
+
+
+## Authorship, License, Credits
+
+Putnam bookcover: [Princeton University Press](https://press.princeton.edu/books/paperback/9780691037387/making-democracy-work)
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+

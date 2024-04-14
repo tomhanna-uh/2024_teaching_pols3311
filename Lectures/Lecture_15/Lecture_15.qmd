@@ -1,0 +1,262 @@
+---
+title: |
+    | Lecture 15 - Culture and Development
+    | Comparative Politics - POLS 3311
+date: April 8, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+
+## Culture and Development
+
+- In trying to determine the causes of democracy and economic development, one possibility is that some other factor accounts for both.
+
+
+## Culture and Development
+
+- In trying to determine the causes of democracy and economic development, one possibility is that some other factor accounts for both.
+- One fairly compelling theory is that the something else was **urbanization** which led to increased **literacy** and **numeracy** as part of expanding trade
+- Other factors include **path dependence**, **culture**, and **evolutionary processes**
+
+
+
+## Something else
+
+"...events during critical historical junctures can lead to divergent political--economic development paths, some leading to prosperity and democracy, others to relative poverty and non-democracy."[^1]
+
+[^1]: Daron Acemoglu and James Robinson. "Reevaluating the Modernization Hypothesis." 2009.
+
+What are those paths? What is the something else?
+
+## Something else
+
+-   Cultural - Norms
+-   Cultural - Institutions
+-   Geographic / Resources
+-   Evolutionary process
+
+## Something else: Cultural - Norms
+
+Protestantism (example)
+
+
+## Something else: Cultural - Norms
+
+Protestantism (example)
+
+       
+- Protestant countries/regions outperform Catholic ones on both economic and political development
+
+
+## Something else: Cultural - Norms
+
+Protestantism (example)
+
+       
+- Protestant countries/regions outperform Catholic ones on both economic and political development
+
+
+-   This is a measurable effect, starting with Western Europe, but why?
+
+## Something else: Cultural - Norms
+
+Protestantism (example)
+
+
+-   Norms based explanations (better behavior)
+-  Institutions based explanations (better institutions)
+
+## Protestantism - norms based
+
+Norms based explanations (better behavior)
+
+- Work ethic 
+
+        - Max Weber
+        - Work as a social obligation and a sign of grace (salvation)
+        - combined with: "accumulation of capital through ascetic compulsion to save” (Weber 1905)
+              
+
+## Protestantism - norms based
+
+- Work ethic               
+- Focus on individual
+
+        - The protestant focus on the individual's direct relationship with God, rather than through the hierarchy, undermined the divine right of kings
+        
+## Protestantism - norms based
+
+- Work ethic               
+- Focus on individual
+- Importance of literacy 
+
+        - Protestant emphasis on reading the Bible for oneself led to higher literacy rates
+        - Literacy is important for commerce- contracts, etc.
+        - Literacy is important for democracy
+
+
+## Protestantism - institutions based
+
+- Germanic institutions (including Anglo-Saxon and Scandinavian) were more democratic than Roman institutions
+- This predated the Reformation, but coincided geographically in many cases
+
+## Protestantism - institutions based
+
+- Woodberry (2012) found that Protestant missionaries were associated with higher levels of democracy and economic development in the areas they worked^[Woodberry, Robert D. 2012. “The Missionary Roots of Liberal Democracy.” The American political science review 106(2): 244–274.]
+
+        - religious liberty
+        
+## Protestantism - institutions based
+
+- Woodberry (2012) found that Protestant missionaries were associated with higher levels of democracy and economic development in the areas they worked
+
+        - religious liberty
+        - mass education
+        
+## Protestantism - institutions based
+
+- Woodberry (2012) found that Protestant missionaries were associated with higher levels of democracy and economic development in the areas they worked
+
+        - religious liberty
+        - mass education
+        - mass printing including newspapers
+
+## Protestantism - institutions based
+
+- Woodberry (2012) found that Protestant missionaries were associated with higher levels of democracy and economic development in the areas they worked
+
+        - religious liberty
+        - mass education
+        - mass printing including newspapers
+        - voluntary organizations (civil society)
+
+
+## Protestantism - institutions based
+
+- Woodberry found that Protestant missionaries were associated with higher levels of democracy and economic development in the areas they worked
+
+        - religious liberty
+        - mass education
+        - mass printing including newspapers
+        - voluntary organizations (civil society)
+        - colonial reforms
+        
+## Protestantism - institutions based
+
+Colonial reforms (Mostly studied in British context)
+
+        - Protestant missionaries attempted to reform local customs
+        
+## Protestantism - institutions based
+
+Colonial reforms (Woodberry 2012)
+
+        - Protestant missionaries attempted to reform local customs
+        - Locals responded by copying the missionary institutions (schools, newspapers, etc.) to resist the reforms
+        
+## Protestantism - institutions based
+
+Colonial reforms
+
+        - Protestant missionaries attempted to reform local customs
+        - Locals responded by copying the missionary institutions (schools, newspapers, etc.) to resist the reforms
+        - As long as the organizations were not anti-British they were tolerated by the colonial rulers
+        
+## Protestantism - institutions based
+
+Colonial reforms
+
+        - Protestant missionaries attempted to reform local customs
+        - Locals responded by copying the missionary institutions (schools, newspapers, etc.) to resist the reforms
+        - As long as the organizations were not anti-British they were tolerated by the colonial rulers
+        - These organizations became the basis for civil society in the post-colonial period
+
+## Protestantism - institutions based
+
+Colonial reforms
+
+Essentially, the argument is that the British did two things:
+
+        - Provided examples of civil society institutions
+        - Picked their battles     
+
+The second especially was intended to maintain British control, not for benevelent reasons. But the result was that former colonies inherited positive institutions.  
+        
+
+## Something else: Evolutionary process
+
+Open access order development (North, Wallis, and Weingast 2009)
+
+      
+            - Autocracy develops to control violence
+            - Constraining institutions develop in autocracy
+            - Strong but constrained autocracies perform best economically
+            - The most constrained are also closest to modern liberal democracy, by definition
+            - End stage is "open access social orders"
+
+## Something else: Evolutionary process
+
+The Narrow Corridor (Acemoglu and Robinson 2019)
+
+        
+            - strong government with strong civil society constraints required to end up with a free society
+            - Strong government provides security 
+            - Informal (civil society) constraints provide security against government
+            - Formal institutional constraints need informal civil society to make them effective
+            - The combination of strong government and counterbalancing civil society allows for both economic and political development
+
+
+## Something else: Evolutionary process
+
+Spontaneous order (Hayek 1972) - Law, Legislation and Liberty, Vol. 1 Rules & Order
+
+       
+            - Hayek's model is English common law
+            - Under common law, law is found not made
+            
+## Something else: Evolutionary process
+
+Spontaneous order (Hayek 1972) - Law, Legislation and Liberty, Vol. 1 Rules & Order
+
+       
+            - Hayek's model is English common law
+            - Under common law, law is found not made  
+            - The law is found in existing customs regarding property rights, contracts, etc.
+            
+
+## Something else: Evolutionary process
+
+Spontaneous order (Hayek 1972) - Law, Legislation and Liberty, Vol. 1 Rules & Order
+
+       
+            - Hayek's model is English common law
+            - Under common law, law is found not made  
+            - The law is found in existing customs regarding property rights, contracts, etc.           
+            - Spontaneous development of contract customs into enforceable institutions
+            
+
+
+
+
+
+
+## Authorship, License, Credits
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+

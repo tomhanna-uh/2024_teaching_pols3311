@@ -1,0 +1,272 @@
+---
+title: |
+    | Lecture 17 - Democratic Backsliding, Repression, Autocracy Promotion
+    | Comparative Politics - POLS 3311
+date: April 8, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Agenda
+
+Today
+
+        - Topic overview
+        
+Wednesday
+
+        - Reading: Zhukov, Yuri M. "Repression Works (Just Not in Moderation)." Comparative Political Studies. Volume 56, Issue 11. https://doi.org/10.1177/00104140231152778 - Note: You may need to be logged into the UH library system with Cougarnet or the library proxy 
+        - Complete topic
+
+## Basic terminology
+
+- Democratic backsliding
+- Autocratic Regression or Autocratic Deepening
+- Regime Transformation
+- Autocracy promotion
+- Repression
+
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+        
+        
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower level of democracy
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower level of democracy
+
+For example, erosion of civil liberties, decline in the *rule of law*, or reduction in political rights.
+
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower quality of democracy
+- A democracy moving to a more authoritarian form of government.
+
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower quality of democracy
+- A democracy moving to a more authoritarian form of government.
+- Does this mean elections get worse? Do election problems always indicate democratic backsliding?
+
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower quality of democracy
+- A democracy moving to a more authoritarian form of government.
+- Election problems may be a symptom of backsliding, but elections are not the only indicator of democracy.
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower quality of democracy
+- A democracy moving to a more authoritarian form of government.
+- Election problems may be a symptom of backsliding, but elections are not the only indicator of democracy.
+- Measured by changes in scores on measures such as Polity V, Freedom House Index, or V-Dem Regimes of the World Index.
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower quality of democracy
+- A democracy moving to a more authoritarian form of government.
+- Election problems may be a symptom of backsliding, but elections are not the only indicator of democracy.
+- Measured by changes in scores on measures such as Polity V, Freedom House Index, or V-Dem Regimes of the World Index.
+- Does democratic backslding always have to mean a country becoming a nondemocracy?
+
+## Basic terminology
+
+Democratic backsliding
+
+- Decline in democratic quality of governance (As defined previously in the semester.)
+- **Consolidated democracy** moving to a lower quality of democracy
+- A democracy moving to a more authoritarian form of government.
+- Election problems may be a symptom of backsliding, but elections are not the only indicator of democracy.
+- Measured by changes in scores on measures such as Polity V, Freedom House Index, or V-Dem Regimes of the World Index.
+- Does democratic backslding always have to mean a country becoming a nondemocracy? No. It does not have to involve a change in regime type, just a decline in democratic quality. 
+        
+        
+
+        
+## Basic terminology
+
+Autocratic Regression or Autocratic Deepening
+
+- Happens in **nondemocratic regimes**
+
+
+        
+## Basic terminology
+
+Autocratic Regression or Autocratic Deepening
+
+- Happens in **nondemocratic regimes**
+- Movement away from democracy, towards closed autocracy.
+
+
+## Basic terminology
+
+Autocratic Regression or Autocratic Deepening
+
+- Happens in **nondemocratic regimes**
+- Movement away from democracy, towards closed autocracy.
+- How do we measure it?
+
+## Basic terminology
+
+Autocratic Regression or Autocratic Deepening
+
+- Happens in **nondemocratic regimes**
+- Movement away from democracy, towards closed autocracy.
+- How do we measure it? With the same regime type indicators as we use for democratic backsliding: Polity V, Freedom House Index, or V-Dem Regimes of the World Index (among others)
+
+
+## Basic terminology
+
+Autocratic Regression or Autocratic Deepening
+
+- Happens in **nondemocratic regimes**
+- Movement away from democracy, towards closed autocracy.
+- How do we measure it? With the same regime type indicators as we use for democratic backsliding: Polity V, Freedom House Index, or V-Dem Regimes of the World Index (among others)
+- It can include changing categroies of autocracy, for example: electoral democracy to electoral autocracy, or electoral autocracy to closed autocracy. 
+- Does it have to involve a change in regime category?
+
+## Basic terminology
+
+Autocratic Regression or Autocratic Deepening
+
+- Happens in **nondemocratic regimes**
+- Movement away from democracy, towards closed autocracy.
+- How do we measure it? With the same regime type indicators as we use for democratic backsliding: Polity V, Freedom House Index, or V-Dem Regimes of the World Index (among others)
+- It can include changing categroies of autocracy, for example: electoral democracy to electoral autocracy, or electoral autocracy to closed autocracy. 
+- Does it have to involve a change in regime category? No. 
+
+
+
+## Basic terminology
+
+- Democratic backsliding
+- Autocratic Regression or Autocratic Deepening
+- Regime Transformation
+
+        - A change in regime type               
+
+       
+## Basic terminology
+
+- Democratic backsliding
+- Autocratic Regression or Autocratic Deepening
+- Regime Transformation
+
+        - A change in regime type  
+        - can be either direction: liberalization or autocratization
+        - The lines between regime types can be a bit arbitrary
+        
+## Basic terminology
+
+- Democratic backsliding
+- Autocratic Regression or Autocratic Deepening
+- Regime Transformation
+- Autocracy promotion
+
+        - Efforts by autocratic regimes to promote autocracy in other countries. 
+        
+## Basic terminology
+
+- Democratic backsliding
+- Autocratic Regression or Autocratic Deepening
+- Regime Transformation
+- Autocracy promotion
+
+        - Efforts by autocratic regimes to promote autocracy in other countries. 
+        - Can involve providing support to autocratic regimes, military intervention, financial and economic cooperation with other autocracies, propaganda, election interference, and other means.
+        
+        
+## Basic terminology
+
+- Democratic backsliding
+- Autocratic Regression or Autocratic Deepening
+- Regime Transformation
+- Autocracy promotion
+- Repreesion
+
+        - The state's use of force or coercion for political reasons, especially to suppress dissent or opposition.
+        - Can be physical, psychological, or economic.
+        - Can be targeted at individuals, groups, or the general population.
+        
+        
+        
+        
+## Democratic Backsliding
+
+Hyde, Susan D. 2020. “Democracy’s backsliding in the international environment.” Science 369(6508): 1192–1196.
+
+
+        
+## Examples of Democratic Backsliding
+
+
+## Examples of Autocratic Regression or Deepening
+
+
+## Examples of Regime Transformation
+
+
+        
+        
+        
+
+## Democratic Backsliding
+
+Hyde, Susan D. 2020. “Democracy’s backsliding in the international environment.” Science 369(6508): 1192–1196.
+
+
+
+
+## Authorship, License, Credits
+
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+
+
