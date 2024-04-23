@@ -1,0 +1,185 @@
+---
+title: |
+    | Lecture 20 - Corruption
+    | Comparative Politics - POLS 3311
+date: April 22, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+## Causes of Corruption
+
+Focus:
+
+-   Empirical study
+-   Comparative study
+
+in terms of topics from earlier in the semester:
+
+-   institutions
+-   incentives
+-   selectorate theory
+
+## Corruption - definitions
+
+-   petty corruption
+-   Grand corruption
+
+
+## Corruption - definitions
+
+-   petty corruption
+
+    - low level officials
+    - individual transactions for specific purposes
+
+Examples:
+
+-  bribes to traffic cops
+-  extorting a small business owner
+-  bribes to get a permit 
+
+
+## Corruption - definitions
+
+-   Grand corruption
+
+    -   high level officials
+    -   large sums of money
+    -   large scale corruption
+
+Examples:
+
+- bribes to pass a law or regulation
+- schemes to award large government contracts to friends or family
+
+
+
+## Corruption - core issues
+
+-   incentives toward corruption
+-   accountability and responsibility
+
+## Corruption - incentives
+
+-   personal wealth
+
+## Corruption - incentives
+
+-   personal wealth
+
+-   corrupt politics
+      
+        - campaign costs
+        - buying votes
+        - other corrupt costs
+
+
+## Corruption - accountability and responsibility
+
+Legal (punitive) 
+
+        - Fines
+        - jail time
+        - removal from office by legal process
+
+
+## Corruption - accountability and responsibility
+
+
+Electoral
+
+-  recall elections
+
+        - difficult to organize
+        - difficult to win
+        
+        
+## Corruption - accountability and responsibility
+
+Electoral
+
+-  recall elections
+-  losing the next election
+
+
+## Corruption - accountability and responsibility
+
+Huey Long, "The Kingfish"
+
+- Political boss of Lousiana
+- Widely known to be corrupt, immensely popular
+-  Louisiana Governor 1928-1932
+- Impeached 1929, not convicted
+- US Senator 1932-1935
+- Investigated for ethics violations by Senate 1934
+
+## Corruption - accountability and responsibility
+
+William J. Jefferson
+
+- Louisiana Congressman 1991-2009
+
+        - July 30, 2005 Videotaped receiving a briefcase of cash in an Arlington hotel
+        - August 3, 2005 FBI raid on his home found $90,000 in cash wrapped in aluminum foil in his freezer
+        - May 2006 FBI raid on his Congressional office
+        - December 2006 - re-elected in a runoff with 57\% of the vote
+        - Indicted 2007 on 16 counts of corruption
+        - November 2008 - lost re-election to Anh "Joseph" Cao on a 49.55/% to 46.8% vote
+        - Convicted 2009 on 11 counts of corruption
+
+- Re-elected during corruption investigation after being caught with $90,000 in cash in his freezer
+- Got 46.8% of the vote in the next election after being indicted
+
+
+## Corruption - accountability and responsibility
+
+Electoral
+
+-  recall elections
+-  losing the next election
+
+        - voters prioritize policy agreement over corruption
+        - complex media environment sends conflicting messages
+        
+
+
+
+
+
+
+## Corruption - accountability and responsibility
+
+- Legal (punitive) 
+- Electoral
+- Party leadership
+
+        - loss of party support
+        - loss of party nomination 
+        - removal from party list in closed list system
+        
+## Corruption - accountability and responsibility
+
+Question: Which do you think provides more accountability for corrupt elected officials at the party level, a closed list proportional representation system or a party primary in a single member district system? Why?
+
+
+
+## Authorship, License, Credits
+
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

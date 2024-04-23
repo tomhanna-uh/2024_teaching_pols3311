@@ -1,0 +1,91 @@
+---
+title: |
+    | Lecture 18 - Repression
+    | Comparative Politics - POLS 3311
+date: April 17, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+
+## Agenda
+
+- Today
+
+        - Repression overview
+        - Article: Zhukov, Y. M. (2023). Repression Works (Just Not in Moderation). Comparative Political Studies, 56(11), 1663-1694. https://doi.org/10.1177/00104140231152778
+        
+- Monday: Conflict, Trade, and Globalization
+
+Short background readings. Reading them is expected.
+
+        - Griswold, Daniel. "Peace on Earth? Try Free Trade among Men." December 28, 2005. Cato Institute. https://www.cato.org/commentary/peace-earth-try-free-trade-among-men
+        – Revenga, Ana and Anabel Gonzalez. "Trade has been a global force for less poverty and higher incomes." World Bank 2017. https://blogs.worldbank.org/en/developmenttalk/trade-has-been-global-force-less-poverty-and-higher-incomes
+        
+# Repression
+
+## What is repression?
+
+https://www.youtube.com/watch?v=YAA-G947ofg
+
+
+## What is repression?
+
+What do we mean by repression?
+
+## What is repression?
+
+- Repression is the use of coercive force, that is physical violence, to maintain control over a population for **political purposes**
+
+If the state is the entity with a monopoly on the legitimate use of coercive force in a certain region, what distinguishes repression from normal government action?           
+
+## What is repression?
+
+- Repression is the use of coercive force, that is physical violence, to maintain control over a population for **political purposes**
+
+- Government's role is to maintain order and protect citizens. **Political purposes** is the use of force to restrict the political participation of citizens to maintain the government's power, not to protect citizens.
+
+
+## Is repression limited to authoritarian regimes?
+
+Is all use of force to limit political participation inappropriate in a democracy? If not, is there a clear line between legitimate and illegitimate use of force to limit political participation in a democracy? Is there a level or type of repression that so undermines contestation that the government can no longer be classified as democratic?
+
+
+## Article
+
+- Zhukov, Y. M. (2023). Repression Works (Just Not in Moderation). Comparative Political Studies, 56(11), 1663-1694. https://doi.org/10.1177/00104140231152778
+
+
+## Reminder for Monday
+
+Short background readings. Reading them is expected.
+
+        - Griswold, Daniel. "Peace on Earth? Try Free Trade among Men." December 28, 2005. Cato Institute. https://www.cato.org/commentary/peace-earth-try-free-trade-among-men
+        – Revenga, Ana and Anabel Gonzalez. "Trade has been a global force for less poverty and higher incomes." World Bank 2017. https://blogs.worldbank.org/en/developmenttalk/trade-has-been-global-force-less-poverty-and-higher-incomes
+        
+
+
+
+
+
+
+
+## Authorship, License, Credits
+
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
