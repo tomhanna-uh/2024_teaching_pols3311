@@ -1,0 +1,401 @@
+---
+title: |
+    | Final_Review
+    | Comparative Politics - POLS 3311
+date: April 29, 2024
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.css]
+                logo: logo.png
+                footer: "POLS3311, Spring 2024, Instructor: Tom Hanna"
+editor: source
+---
+
+# Final Review - Format
+
+## General comments
+
+- The exam is comprehensive and the second half material relies heavily on the first half concepts.
+- Many of the questions will involve applying basic concepts (first half) to more advanced concepts (second half). (e.g. if you don't know the difference between public and private goods, questions related to dictators versus democracy in Selectorate theory won't make sense.)
+
+## General comments
+
+- Some written questions may require more critical thinking and application of concepts than the midterm to earn full credit.
+- That does *NOT* mean it will be harder, as we have practiced the concepts more throughout the second half topics. They should be more familiar.
+
+## Questions
+
+- 35 points possible
+- 25 multiple choice. 1 point each
+- 3 short written questions - choose two! 5 points each
+- 2 "I Know It Now" bonus questions based on Midterm. 1 point each
+- 2 designated bonus questions, choose one! - 5 points (These will be hard)
+
+## Types of questions
+
+- Not all memorization
+- You will be expected to
+
+        - Remember basic material
+        - Show understanding of basic concepts
+        - Apply basic concepts to new situations
+        - Analyze and evaluate based on basic concepts
+
+##  Format
+
+- No bluebook or scantron needed
+- You can write on the test paper
+- You may fill one 8.5 x 11 paged with handwritten notes, front and back **OR** use your note cards
+- No other notes, books, or electronic devices are allowed to be out during the test
+
+
+## Study Tips
+
+-  Review lecture materials
+
+  
+             - Bold, italic, and capitalized words reflect major concepts 
+             - Repeated items are important
+             - Know the broad categories basic definitions 
+    
+
+-  Know key distinctions - how do they differ?
+
+          
+
+   
+## Study Tips
+
+- Check the "For your reference" section for background information/fuller understanding. I have moved this from the Readings to the Midterm Information Module
+- Read the **Background Readings** if you have not already and are unclear on concepts
+- Review outside resources linked in lecture materials - this will definitely help with one bonus question. Hint: William Spaniel Video
+
+# Final Review - Topics
+
+## Basic topics (page 1)
+
+Comprehensive: All topics from Midterm plus
+
+- Varieties of Dictorship (Lecture 10)
+- Non-Democratic Legislatures and Parties (Lecture 11)
+- Economic and Political Development (Lectures 12, 14, and 14)
+-  Culture and Development (Lecture 15, 16)
+- continued on next page
+
+
+## Basic topics (page 2)
+
+Comprehensive: All topics from Midterm and page 1 plus
+
+- Democratic Backsliding (Lecture 17)
+- Repression (Lecture 18)
+- Conflict, Trade, and Globalizatin (Lecture 19)
+- Corruption (Lecture 20)            
+             
+             
+# Specific topic review - Part 2 (Second Half)
+
+## Varieties of Dictorship (Lecture 10)
+
+- Types by degree of autocracy-democracy. Be able to rank them in order. Be familiar with the scales.
+- Motivation of dictators. What is the main motivation? How is this similar or different than democratic leaders? 
+- Motivation is the basis for explaining behavior. In the written section, if you can apply concepts from the course to explain behavior based on the motivation of leaders, you will do well.
+
+## Varieties of Dictorship (Lecture 10)
+
+- Selectorate theory 
+
+        - Classification in Selectorate theory. Democracy is a _____ coalition regime; dictatorship is a _____ coalition regime.
+        - In Selectorate theory, dictators are more likely to use what type of goods to satisfy their winning coalition (W). Why? Democratic leaders are more likely to use what type of goods to satisfy their winning coalition (W)? Why?
+        - Five Rules from Dictator's Handbook
+
+- Typologies by other characteristics
+
+        - Geddes (institutional characteristics)
+        - Weeks (constraints and audiences aka supporting coalitions)
+        
+
+## Non-Democratic Legislatures and Parties (Lecture 11)
+
+- Why do dictatorships have legislatures, elections, and opposition parties?
+
+- Do legislatures have any real power in dictatorship? Do they mean anything in dictatorships?
+ 
+- Why would a dictator want to provide a channel for elite competition?
+
+## Non-Democratic Legislatures and Parties (Lecture 11)
+
+- Thinking about the Dictator's Handbook and Selectorate Theory, why would a dictator want to offer the opposition a seat in the legislature? 
+
+- Legislatures with active opposition are associated with improved investment environments. What might explain that?
+
+
+## Economic and Political Development (Lectures 12, 14, and 14)
+
+- Why are economic development and political development correlated?
+
+- Why might democracy cause economic growth? (Three major categories of answer)
+
+- Why might higher economic development lead to democratization? 
+
+- Rostow's stages of modernization
+
+## Economic and Political Development (Lectures 12, 14, and 14)
+
+- Treisman points out that in all of history there have been only three country types with national income per person (GDP per capita) above $25,000 (2011 dollars). What are they? 
+- One is a single nondemocracy - Singapore. What are some explanations? Is Hayek's evolutionary model relevant?
+- Treisman suggests that democratization is more likely in countries with what type of economy? Why? When is the transition likely to occur?
+
+
+## Culture and Development (Lecture 15, 16)
+
+- What are some of the factors that may explain both economic development and democratization?
+- What are some factors explaining the material success of Protestant countries?
+- Woodberry argued that former colonies with Protestant missionary activity did better than those without. Why? What are some of the mechanisms he suggests? Which do you find most compelling and why?
+
+## Culture and Development (Lecture 15, 16)
+
+- Putnam focuses on the development of social capital and trust. What is social capital? What creates an environment of high social capital and high trust?
+- Putnam focused on the distinction between the North and South of Italy. What were some of the differences between the two regions just prior to the initial study?
+- What were some of the differences between the two regions before the unification of Italy?
+
+## Democratic Backsliding (Lecture 17)
+
+- What is democratic backsliding? What are some of the indicators (measurements)?
+- While the number of elections has leveled off in recent years, what has increased?
+- Norris claims two related trends are responsible for much democratic backsliding. What are they?
+- What is the difference between democratic backsliding and regime transition? Does democratic backsliding always involve a move from democracy to nondemocracy?
+- What is autocratic regression and how is measured?
+
+
+## Repression (Lecture 18)
+
+- What is repression? It has three elements
+
+        - the use of ______ ______
+        - to maintain ______
+        - for _______ purposes
+        
+- One of these elements distinguishes it from normal punitive legal processes. What is it?
+- The article by Zhukov (2023) demonstrates that repression works in preventing mass uprisings (civil war), but only in large scale use not moderate amounts. Why might moderate repression fail where harsh repression does not? What consequence of moderate repression might help explain this?
+
+## Conflict, Trade, and Globalizatin (Lecture 19)
+
+- Globalization (increased international trade, investment, and financial ties) have been alternately credited and blamed with improvements and deterioration in three areas that we discussed. What are they?
+- Most of the evidence suggests trade reduces international conflict. What is one possible exception?
+- Trade increases wealth, but there is some evidence of distributional issues (inequality). What are two explanations for this? What are some solutions?
+
+## Conflict, Trade, and Globalizatin (Lecture 19)
+
+- In terms of the environment, two opposing effects have been proposed. Race to the _____ and the ______ Effect. What are they? How do they work?
+
+
+
+## Corruption (Lecture 20)     
+
+- What is corruption? What distinguishes corruption from just a general feeling of unfairness/shadiness/sketchiness?
+- What are the two types of corruption?
+- What are the two major incentives to corruption? In terms of the motivations of political leaders, which is the more important?
+- Is electoral accountability (being voted out of office) for corruption effective?
+
+## Corruption (Lecture 20)
+
+Question: Which do you think provides more accountability for corrupt elected officials at the party level, a closed list proportional representation system or a party primary in a single member district system? Why?
+             
+             
+# Specific topic review - Part 1 (First Half)
+
+## What is politics (Lecture 1)
+
+- Basic definitions of
+
+        - Politics
+        - The state
+
+- Review written questions 1 and 2. 
+- Think about the relevance of question 3 to how we define politics, the importance of politics, etc.
+- Difference between political science and political theory
+
+## What is politics (Lecture 1) - page 2
+
+- What is different about the state compared to other organizations?
+- Difference between political science and economics? Political science and sociology?
+
+## Scientific Method (Lecture 2, Lecture 4)
+
+- What is science? Three vital elements
+- Science and philosophy: which one describes the world as it is and which is concerned with how the world should be?
+- What is the scientific method? 5 steps, order matters
+- What is a hypothesis?
+- What is a research question? 
+
+        - What is the one vital element that it has to be specific about?
+        - What are some examples of important but non-scientific questions?
+        
+## Reading scientific articles (Lecture 4)
+
+- Few specifics from this, but it is important to understanding the Scientific Method questions
+- Focus on research questions
+- What is the difference between a research question and a hypothesis? Think about where they are each found in the paper and how that relates to the steps of the scientific method
+        
+## Comparative Method (Lecture 1)
+
+- Method of Difference and Method of Similarity
+- Size of study (case study, quantitative, qualitative)
+- Types of study
+
+
+## Collective Choice (Lecture 3, 5)
+
+- How do questions of collective choice relate to political science? 
+        
+        - What are the three solutions to collective action problems?
+        - Are all collective choice problems solved politically?
+        - What other fields of study are interested in collective choice problems? 
+        - How do they differ from the political science approach?
+        
+- Why is collective action sometimes a problem?
+
+        - do rational individual choices always lead to rational collective outcomes?
+        - optimal use - externalities in ____ goods
+        - efficient use - incentives in ____ goods
+        - prisoner's dilemma
+        - free rider problem
+        - tragedy of the commons
+        - Arrow's impossibility theorem
+
+## Collective Choice (Lecture 3, 5) - page 2
+
+- types of goods 
+
+        - rival vs nonrival
+        - excludable vs non-excludable
+        
+## Collective Choice (Lecture 3, 5) - Thought question
+
+
+> How does Arrow's impossibility theorem relate to the types of goods that are most efficiently provided by government versus private action? (Note: Efficiency is only consideration here. Considerations of fairness in considering diverse preferences also come into play. This is an example of how scientific thinking can help solve moral/ethical dilemmas. Feel free to examine the fairness aspect as well.) As an analogy, in class I gave voting on whether to have pizza, tacos, or seafood for a catered group lunch. Think about this versus ordering individually at a restaurant without voting. 
+        
+
+## Collective Choice (Lecture 3, 5) - Prisoner's Dilemma
+
+
+
+> Under what circumstances might it matter if the prisoner's are allowed to talk? Think about this in terms of the values of the outcomes. When would talking change those values? 
+
+> What could the two thieves do in advance of getting caught to ensure cooperation? Again consider the values of the outcomes.
+
+
+## Types of government: Democracy vs Dictatorship (Lecture 6)
+
+- Definition and key features of democracy
+
+        - Modern liberal democracy
+        - Is democracy just any government that does nice things for the people?
+        - Are elections enough?
+        
+- Features of democracy:
+
+        - What are the three features of democracy?
+        - What is the core feature of democracy that the other rules are designed to ensure? (Lecture 7)
+        - What are the ex ante (before the election) and ex post (after the election) features of democracy?
+
+- Four rules for democracy:
+
+        - Comparative politics turns the features into Four rules for defining a democracy. What are they?
+
+## Dictatorship
+
+- What is a dictatorship? (Lecture 6)
+
+        - Historically and semantically
+        - In practice
+        - Where do "middle ground" regimes that lack full features of democracy fit in a binary democracy/dictatorship classification?
+        
+## Forms of Democratic Government: Presidential vs Parliamentary Systems (Lecture 7)
+
+- What is the key difference between a presidential and parliamentary system?
+
+- Differences and similarities:
+
+        - Which system is characterized by a separation of powers?
+        - Which system is characterized by a separate election of the chief executive?
+        - Do Presidential systems have parliaments (legislatures)?
+        - Can parliamentary systems have Presidents?
+        - In which system is the executive more likely to be removed by the legislature?
+        - In which system is the head of government a member of the legislature?
+        
+- Name one example each of a country with a Presidential, Semi-presidential, and Parliamentary system (intended to be easy points!)
+
+
+## Electoral Systems (Lecture 9)
+
+- What are the two values based concerns (normative concerns) that drive our questions about electoral systems? Describe the trade-off
+- The study of electoral systems is not about individual parliamentary seats. What are we studying?
+- What are the dimensions of electoral systems?
+- Questions:
+
+        - What is district magnitude?
+        - What is the difference between a single member district and a multi-member district?
+
+## Electoral Systems (Lecture 9)
+
+- What is proportional representation?
+
+        - What is closed list?
+        - What is open list
+        
+- Questions: 
+
+        - Given example of a system, can you identify whether it is majoritarian or proportional? 
+        - Given examples of two systems, can you identify which is more majoritarian and which is proportional?
+        - What is the district magnitude of a PR system?
+        - What are the two general methods of allocating seats? (Hare and d'Hondt are given as examples of the general methods)
+        - Can you allocate seats using the d'hondt method (used in class) or the Hare Method (bonus bonus)? 
+        
+$quot = \frac{V}{s + 1}$ 
+        
+
+## Party systems - two party versus multiparty (Lecture 9)
+
+- What is a party system?
+- What is the difference between a two party and a multiparty system?
+- What is Duverger's Law? 
+
+
+## Electoral Outcomes (Lecture 9)
+
+- Median voter theorem
+
+        - What does it say we should expect?
+        - How many candidates?
+        - How many dimensions of ideology? (That is, how many issue groups are there?)
+        - What is the voting rule?
+
+- Median: The voter whose preferences are in the exact middle of all voters' preferences. 
+
+- Question: What happens if a third candidate enters to the left or right of the two main candidates and why? (Think about the Hotelling Main Street model of competition)
+
+
+
+
+
+
+
+
+## Authorship, License, Credits
+
+Do not submit to Chegg or similar websites
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
